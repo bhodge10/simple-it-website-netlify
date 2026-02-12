@@ -550,6 +550,1149 @@ from = "/terms"
 to = "/terms-of-service.html"
 status = 301
 
+
+# WordPress blog post redirects (old root URLs -> new /blog/ URLs)
+
+[[redirects]]
+from = "/10-easy-steps-to-building-a-culture-of-cyber-awareness/"
+to = "/blog/10-easy-steps-to-building-a-culture-of-cyber-awareness/"
+status = 301
+
+[[redirects]]
+from = "/10-easy-steps-to-building-a-culture-of-cyber-awareness"
+to = "/blog/10-easy-steps-to-building-a-culture-of-cyber-awareness/"
+status = 301
+
+[[redirects]]
+from = "/10-steps-to-prevent-a-data-breach/"
+to = "/blog/10-steps-to-prevent-a-data-breach/"
+status = 301
+
+[[redirects]]
+from = "/10-steps-to-prevent-a-data-breach"
+to = "/blog/10-steps-to-prevent-a-data-breach/"
+status = 301
+
+[[redirects]]
+from = "/5-new-trends-from-a-study-on-the-state-of-ai-at-work/"
+to = "/blog/5-new-trends-from-a-study-on-the-state-of-ai-at-work/"
+status = 301
+
+[[redirects]]
+from = "/5-new-trends-from-a-study-on-the-state-of-ai-at-work"
+to = "/blog/5-new-trends-from-a-study-on-the-state-of-ai-at-work/"
+status = 301
+
+[[redirects]]
+from = "/6-helpful-tips-to-troubleshoot-common-business-network-issues/"
+to = "/blog/6-helpful-tips-to-troubleshoot-common-business-network-issues/"
+status = 301
+
+[[redirects]]
+from = "/6-helpful-tips-to-troubleshoot-common-business-network-issues"
+to = "/blog/6-helpful-tips-to-troubleshoot-common-business-network-issues/"
+status = 301
+
+[[redirects]]
+from = "/6-simple-steps-to-enhance-your-email-security/"
+to = "/blog/6-simple-steps-to-enhance-your-email-security/"
+status = 301
+
+[[redirects]]
+from = "/6-simple-steps-to-enhance-your-email-security"
+to = "/blog/6-simple-steps-to-enhance-your-email-security/"
+status = 301
+
+[[redirects]]
+from = "/7-great-examples-of-how-ai-is-helping-small-businesses/"
+to = "/blog/7-great-examples-of-how-ai-is-helping-small-businesses/"
+status = 301
+
+[[redirects]]
+from = "/7-great-examples-of-how-ai-is-helping-small-businesses"
+to = "/blog/7-great-examples-of-how-ai-is-helping-small-businesses/"
+status = 301
+
+[[redirects]]
+from = "/7-important-considerations-before-you-buy-smart-home-tech/"
+to = "/blog/7-important-considerations-before-you-buy-smart-home-tech/"
+status = 301
+
+[[redirects]]
+from = "/7-important-considerations-before-you-buy-smart-home-tech"
+to = "/blog/7-important-considerations-before-you-buy-smart-home-tech/"
+status = 301
+
+[[redirects]]
+from = "/7-surprising-ways-hackers-break-in/"
+to = "/blog/7-surprising-ways-hackers-break-in/"
+status = 301
+
+[[redirects]]
+from = "/7-surprising-ways-hackers-break-in"
+to = "/blog/7-surprising-ways-hackers-break-in/"
+status = 301
+
+[[redirects]]
+from = "/8-tips-for-safeguarding-your-gadgets-while-traveling/"
+to = "/blog/8-tips-for-safeguarding-your-gadgets-while-traveling/"
+status = 301
+
+[[redirects]]
+from = "/8-tips-for-safeguarding-your-gadgets-while-traveling"
+to = "/blog/8-tips-for-safeguarding-your-gadgets-while-traveling/"
+status = 301
+
+[[redirects]]
+from = "/a-simple-guide-to-the-updated-nist-2-0-cybersecurity-framework/"
+to = "/blog/a-simple-guide-to-the-updated-nist-2-0-cybersecurity-framework/"
+status = 301
+
+[[redirects]]
+from = "/a-simple-guide-to-the-updated-nist-2-0-cybersecurity-framework"
+to = "/blog/a-simple-guide-to-the-updated-nist-2-0-cybersecurity-framework/"
+status = 301
+
+[[redirects]]
+from = "/ai-automation-how-businesses-can-use-ai-to-work-smarter/"
+to = "/blog/ai-automation-how-businesses-can-use-ai-to-work-smarter/"
+status = 301
+
+[[redirects]]
+from = "/ai-automation-how-businesses-can-use-ai-to-work-smarter"
+to = "/blog/ai-automation-how-businesses-can-use-ai-to-work-smarter/"
+status = 301
+
+[[redirects]]
+from = "/ai-data-breaches-are-rising-heres-how-to-protect-your-company/"
+to = "/blog/ai-data-breaches-are-rising-heres-how-to-protect-your-company/"
+status = 301
+
+[[redirects]]
+from = "/ai-data-breaches-are-rising-heres-how-to-protect-your-company"
+to = "/blog/ai-data-breaches-are-rising-heres-how-to-protect-your-company/"
+status = 301
+
+[[redirects]]
+from = "/ai-for-business-to-avoid-challenges/"
+to = "/blog/ai-for-business-to-avoid-challenges/"
+status = 301
+
+[[redirects]]
+from = "/ai-for-business-to-avoid-challenges"
+to = "/blog/ai-for-business-to-avoid-challenges/"
+status = 301
+
+[[redirects]]
+from = "/ai-tools-for-business-success-northern-kentucky-2025/"
+to = "/blog/ai-tools-for-business-success-northern-kentucky-2025/"
+status = 301
+
+[[redirects]]
+from = "/ai-tools-for-business-success-northern-kentucky-2025"
+to = "/blog/ai-tools-for-business-success-northern-kentucky-2025/"
+status = 301
+
+[[redirects]]
+from = "/ai-tools-to-boost-office-productivity/"
+to = "/blog/ai-tools-to-boost-office-productivity/"
+status = 301
+
+[[redirects]]
+from = "/ai-tools-to-boost-office-productivity"
+to = "/blog/ai-tools-to-boost-office-productivity/"
+status = 301
+
+[[redirects]]
+from = "/avoid-cloud-bill-shock-cost-optimization-tips/"
+to = "/blog/avoid-cloud-bill-shock-cost-optimization-tips/"
+status = 301
+
+[[redirects]]
+from = "/avoid-cloud-bill-shock-cost-optimization-tips"
+to = "/blog/avoid-cloud-bill-shock-cost-optimization-tips/"
+status = 301
+
+[[redirects]]
+from = "/balancing-ai-benefits-cybersecurity-risks-business/"
+to = "/blog/balancing-ai-benefits-cybersecurity-risks-business/"
+status = 301
+
+[[redirects]]
+from = "/balancing-ai-benefits-cybersecurity-risks-business"
+to = "/blog/balancing-ai-benefits-cybersecurity-risks-business/"
+status = 301
+
+[[redirects]]
+from = "/best-cloud-storage-for-business/"
+to = "/blog/best-cloud-storage-for-business/"
+status = 301
+
+[[redirects]]
+from = "/best-cloud-storage-for-business"
+to = "/blog/best-cloud-storage-for-business/"
+status = 301
+
+[[redirects]]
+from = "/best-practices-for-secure-data-backup/"
+to = "/blog/best-practices-for-secure-data-backup/"
+status = 301
+
+[[redirects]]
+from = "/best-practices-for-secure-data-backup"
+to = "/blog/best-practices-for-secure-data-backup/"
+status = 301
+
+[[redirects]]
+from = "/black-friday-business-tech-tips/"
+to = "/blog/black-friday-business-tech-tips/"
+status = 301
+
+[[redirects]]
+from = "/black-friday-business-tech-tips"
+to = "/blog/black-friday-business-tech-tips/"
+status = 301
+
+[[redirects]]
+from = "/blockchain-technology/"
+to = "/blog/blockchain-technology/"
+status = 301
+
+[[redirects]]
+from = "/blockchain-technology"
+to = "/blog/blockchain-technology/"
+status = 301
+
+[[redirects]]
+from = "/boost-employee-morale-retain-top-talent-simple-it/"
+to = "/blog/boost-employee-morale-retain-top-talent-simple-it/"
+status = 301
+
+[[redirects]]
+from = "/boost-employee-morale-retain-top-talent-simple-it"
+to = "/blog/boost-employee-morale-retain-top-talent-simple-it/"
+status = 301
+
+[[redirects]]
+from = "/build-a-secure-itad-process/"
+to = "/blog/build-a-secure-itad-process/"
+status = 301
+
+[[redirects]]
+from = "/build-a-secure-itad-process"
+to = "/blog/build-a-secure-itad-process/"
+status = 301
+
+[[redirects]]
+from = "/cloud-compliance-nky-businesses/"
+to = "/blog/cloud-compliance-nky-businesses/"
+status = 301
+
+[[redirects]]
+from = "/cloud-compliance-nky-businesses"
+to = "/blog/cloud-compliance-nky-businesses/"
+status = 301
+
+[[redirects]]
+from = "/cloud-storage-small-business-security-efficiency/"
+to = "/blog/cloud-storage-small-business-security-efficiency/"
+status = 301
+
+[[redirects]]
+from = "/cloud-storage-small-business-security-efficiency"
+to = "/blog/cloud-storage-small-business-security-efficiency/"
+status = 301
+
+[[redirects]]
+from = "/copilot-in-teams-new-features-agents-more/"
+to = "/blog/copilot-in-teams-new-features-agents-more/"
+status = 301
+
+[[redirects]]
+from = "/copilot-in-teams-new-features-agents-more"
+to = "/blog/copilot-in-teams-new-features-agents-more/"
+status = 301
+
+[[redirects]]
+from = "/credential-theft-protection-strong-logins-safe-data/"
+to = "/blog/credential-theft-protection-strong-logins-safe-data/"
+status = 301
+
+[[redirects]]
+from = "/credential-theft-protection-strong-logins-safe-data"
+to = "/blog/credential-theft-protection-strong-logins-safe-data/"
+status = 301
+
+[[redirects]]
+from = "/customize-desktop-layout-tips/"
+to = "/blog/customize-desktop-layout-tips/"
+status = 301
+
+[[redirects]]
+from = "/customize-desktop-layout-tips"
+to = "/blog/customize-desktop-layout-tips/"
+status = 301
+
+[[redirects]]
+from = "/cyber-experts-say-you-should-use-these-best-practices-for-event-logging/"
+to = "/blog/cyber-experts-say-you-should-use-these-best-practices-for-event-logging/"
+status = 301
+
+[[redirects]]
+from = "/cyber-experts-say-you-should-use-these-best-practices-for-event-logging"
+to = "/blog/cyber-experts-say-you-should-use-these-best-practices-for-event-logging/"
+status = 301
+
+[[redirects]]
+from = "/cyber-hygiene-tips-2025/"
+to = "/blog/cyber-hygiene-tips-2025/"
+status = 301
+
+[[redirects]]
+from = "/cyber-hygiene-tips-2025"
+to = "/blog/cyber-hygiene-tips-2025/"
+status = 301
+
+[[redirects]]
+from = "/cyber-insurance-northern-kentucky-guide/"
+to = "/blog/cyber-insurance-northern-kentucky-guide/"
+status = 301
+
+[[redirects]]
+from = "/cyber-insurance-northern-kentucky-guide"
+to = "/blog/cyber-insurance-northern-kentucky-guide/"
+status = 301
+
+[[redirects]]
+from = "/cyber-threats-2025/"
+to = "/blog/cyber-threats-2025/"
+status = 301
+
+[[redirects]]
+from = "/cyber-threats-2025"
+to = "/blog/cyber-threats-2025/"
+status = 301
+
+[[redirects]]
+from = "/dark-web-monitoring/"
+to = "/blog/dark-web-monitoring/"
+status = 301
+
+[[redirects]]
+from = "/dark-web-monitoring"
+to = "/blog/dark-web-monitoring/"
+status = 301
+
+[[redirects]]
+from = "/dark-web-security-northern-kentucky/"
+to = "/blog/dark-web-security-northern-kentucky/"
+status = 301
+
+[[redirects]]
+from = "/dark-web-security-northern-kentucky"
+to = "/blog/dark-web-security-northern-kentucky/"
+status = 301
+
+[[redirects]]
+from = "/data-breach-damage-control-avoid-these-pitfalls/"
+to = "/blog/data-breach-damage-control-avoid-these-pitfalls/"
+status = 301
+
+[[redirects]]
+from = "/data-breach-damage-control-avoid-these-pitfalls"
+to = "/blog/data-breach-damage-control-avoid-these-pitfalls/"
+status = 301
+
+[[redirects]]
+from = "/deleted-files-cybersecurity/"
+to = "/blog/deleted-files-cybersecurity/"
+status = 301
+
+[[redirects]]
+from = "/deleted-files-cybersecurity"
+to = "/blog/deleted-files-cybersecurity/"
+status = 301
+
+[[redirects]]
+from = "/device-storage-guide/"
+to = "/blog/device-storage-guide/"
+status = 301
+
+[[redirects]]
+from = "/device-storage-guide"
+to = "/blog/device-storage-guide/"
+status = 301
+
+[[redirects]]
+from = "/device-upgrade-7-signs-to-consider/"
+to = "/blog/device-upgrade-7-signs-to-consider/"
+status = 301
+
+[[redirects]]
+from = "/device-upgrade-7-signs-to-consider"
+to = "/blog/device-upgrade-7-signs-to-consider/"
+status = 301
+
+[[redirects]]
+from = "/difference-between-malware-ransomware/"
+to = "/blog/difference-between-malware-ransomware/"
+status = 301
+
+[[redirects]]
+from = "/difference-between-malware-ransomware"
+to = "/blog/difference-between-malware-ransomware/"
+status = 301
+
+[[redirects]]
+from = "/digital-defense-essential-security-practices-for-remote-workers/"
+to = "/blog/digital-defense-essential-security-practices-for-remote-workers/"
+status = 301
+
+[[redirects]]
+from = "/digital-defense-essential-security-practices-for-remote-workers"
+to = "/blog/digital-defense-essential-security-practices-for-remote-workers/"
+status = 301
+
+[[redirects]]
+from = "/disaster-proofing-northern-kentucky-business-backup-recovery-tips/"
+to = "/blog/disaster-proofing-northern-kentucky-business-backup-recovery-tips/"
+status = 301
+
+[[redirects]]
+from = "/disaster-proofing-northern-kentucky-business-backup-recovery-tips"
+to = "/blog/disaster-proofing-northern-kentucky-business-backup-recovery-tips/"
+status = 301
+
+[[redirects]]
+from = "/dont-be-a-victim-common-mobile-malware-traps/"
+to = "/blog/dont-be-a-victim-common-mobile-malware-traps/"
+status = 301
+
+[[redirects]]
+from = "/dont-be-a-victim-common-mobile-malware-traps"
+to = "/blog/dont-be-a-victim-common-mobile-malware-traps/"
+status = 301
+
+[[redirects]]
+from = "/dont-risk-it-why-you-shouldnt-skip-vulnerability-assessments/"
+to = "/blog/dont-risk-it-why-you-shouldnt-skip-vulnerability-assessments/"
+status = 301
+
+[[redirects]]
+from = "/dont-risk-it-why-you-shouldnt-skip-vulnerability-assessments"
+to = "/blog/dont-risk-it-why-you-shouldnt-skip-vulnerability-assessments/"
+status = 301
+
+[[redirects]]
+from = "/enhancing-employee-performance-with-a-mobile-optimized-workspace/"
+to = "/blog/enhancing-employee-performance-with-a-mobile-optimized-workspace/"
+status = 301
+
+[[redirects]]
+from = "/enhancing-employee-performance-with-a-mobile-optimized-workspace"
+to = "/blog/enhancing-employee-performance-with-a-mobile-optimized-workspace/"
+status = 301
+
+[[redirects]]
+from = "/enhancing-internet-of-things-iot-device-security-for-northern-kentucky/"
+to = "/blog/enhancing-internet-of-things-iot-device-security-for-northern-kentucky/"
+status = 301
+
+[[redirects]]
+from = "/enhancing-internet-of-things-iot-device-security-for-northern-kentucky"
+to = "/blog/enhancing-internet-of-things-iot-device-security-for-northern-kentucky/"
+status = 301
+
+[[redirects]]
+from = "/essential-settings-to-maximize-your-microsoft-365-experience/"
+to = "/blog/essential-settings-to-maximize-your-microsoft-365-experience/"
+status = 301
+
+[[redirects]]
+from = "/essential-settings-to-maximize-your-microsoft-365-experience"
+to = "/blog/essential-settings-to-maximize-your-microsoft-365-experience/"
+status = 301
+
+[[redirects]]
+from = "/gmail-security-threats-in-2025/"
+to = "/blog/gmail-security-threats-in-2025/"
+status = 301
+
+[[redirects]]
+from = "/gmail-security-threats-in-2025"
+to = "/blog/gmail-security-threats-in-2025/"
+status = 301
+
+[[redirects]]
+from = "/good-data-foundation-bluegrass-business/"
+to = "/blog/good-data-foundation-bluegrass-business/"
+status = 301
+
+[[redirects]]
+from = "/good-data-foundation-bluegrass-business"
+to = "/blog/good-data-foundation-bluegrass-business/"
+status = 301
+
+[[redirects]]
+from = "/guide-to-improving-your-companys-data-management/"
+to = "/blog/guide-to-improving-your-companys-data-management/"
+status = 301
+
+[[redirects]]
+from = "/guide-to-improving-your-companys-data-management"
+to = "/blog/guide-to-improving-your-companys-data-management/"
+status = 301
+
+[[redirects]]
+from = "/guide-to-smart-windows-11-settings-to-boost-your-productivity/"
+to = "/blog/guide-to-smart-windows-11-settings-to-boost-your-productivity/"
+status = 301
+
+[[redirects]]
+from = "/guide-to-smart-windows-11-settings-to-boost-your-productivity"
+to = "/blog/guide-to-smart-windows-11-settings-to-boost-your-productivity/"
+status = 301
+
+[[redirects]]
+from = "/hot-off-the-digital-presses-learn-about-microsoft-copilot-for-finance/"
+to = "/blog/hot-off-the-digital-presses-learn-about-microsoft-copilot-for-finance/"
+status = 301
+
+[[redirects]]
+from = "/hot-off-the-digital-presses-learn-about-microsoft-copilot-for-finance"
+to = "/blog/hot-off-the-digital-presses-learn-about-microsoft-copilot-for-finance/"
+status = 301
+
+[[redirects]]
+from = "/how-can-small-businesses-embrace-the-cashless-revolution/"
+to = "/blog/how-can-small-businesses-embrace-the-cashless-revolution/"
+status = 301
+
+[[redirects]]
+from = "/how-can-small-businesses-embrace-the-cashless-revolution"
+to = "/blog/how-can-small-businesses-embrace-the-cashless-revolution/"
+status = 301
+
+[[redirects]]
+from = "/how-password-managers-protect-your-accounts/"
+to = "/blog/how-password-managers-protect-your-accounts/"
+status = 301
+
+[[redirects]]
+from = "/how-password-managers-protect-your-accounts"
+to = "/blog/how-password-managers-protect-your-accounts/"
+status = 301
+
+[[redirects]]
+from = "/iphone-running-slow-speed-it-up-with-one-of-these-tips/"
+to = "/blog/iphone-running-slow-speed-it-up-with-one-of-these-tips/"
+status = 301
+
+[[redirects]]
+from = "/iphone-running-slow-speed-it-up-with-one-of-these-tips"
+to = "/blog/iphone-running-slow-speed-it-up-with-one-of-these-tips/"
+status = 301
+
+[[redirects]]
+from = "/is-your-business-losing-money-because-employees-cant-use-tech/"
+to = "/blog/is-your-business-losing-money-because-employees-cant-use-tech/"
+status = 301
+
+[[redirects]]
+from = "/is-your-business-losing-money-because-employees-cant-use-tech"
+to = "/blog/is-your-business-losing-money-because-employees-cant-use-tech/"
+status = 301
+
+[[redirects]]
+from = "/keep-or-delete-data-retention-northern-kentucky/"
+to = "/blog/keep-or-delete-data-retention-northern-kentucky/"
+status = 301
+
+[[redirects]]
+from = "/keep-or-delete-data-retention-northern-kentucky"
+to = "/blog/keep-or-delete-data-retention-northern-kentucky/"
+status = 301
+
+[[redirects]]
+from = "/knowledge-management-strategies-small-business/"
+to = "/blog/knowledge-management-strategies-small-business/"
+status = 301
+
+[[redirects]]
+from = "/knowledge-management-strategies-small-business"
+to = "/blog/knowledge-management-strategies-small-business/"
+status = 301
+
+[[redirects]]
+from = "/microsoft-365-cost-savings-simple-it/"
+to = "/blog/microsoft-365-cost-savings-simple-it/"
+status = 301
+
+[[redirects]]
+from = "/microsoft-365-cost-savings-simple-it"
+to = "/blog/microsoft-365-cost-savings-simple-it/"
+status = 301
+
+[[redirects]]
+from = "/microsoft-365-security-productivity-tips/"
+to = "/blog/microsoft-365-security-productivity-tips/"
+status = 301
+
+[[redirects]]
+from = "/microsoft-365-security-productivity-tips"
+to = "/blog/microsoft-365-security-productivity-tips/"
+status = 301
+
+[[redirects]]
+from = "/microsoft-forms-for-business-decisions/"
+to = "/blog/microsoft-forms-for-business-decisions/"
+status = 301
+
+[[redirects]]
+from = "/microsoft-forms-for-business-decisions"
+to = "/blog/microsoft-forms-for-business-decisions/"
+status = 301
+
+[[redirects]]
+from = "/microsoft-planner-project-management-nky/"
+to = "/blog/microsoft-planner-project-management-nky/"
+status = 301
+
+[[redirects]]
+from = "/microsoft-planner-project-management-nky"
+to = "/blog/microsoft-planner-project-management-nky/"
+status = 301
+
+[[redirects]]
+from = "/minimize-ransomware/"
+to = "/blog/minimize-ransomware/"
+status = 301
+
+[[redirects]]
+from = "/minimize-ransomware"
+to = "/blog/minimize-ransomware/"
+status = 301
+
+[[redirects]]
+from = "/mobile-app-security-tips/"
+to = "/blog/mobile-app-security-tips/"
+status = 301
+
+[[redirects]]
+from = "/mobile-app-security-tips"
+to = "/blog/mobile-app-security-tips/"
+status = 301
+
+[[redirects]]
+from = "/navigating-the-challenges-of-data-lifecycle-management/"
+to = "/blog/navigating-the-challenges-of-data-lifecycle-management/"
+status = 301
+
+[[redirects]]
+from = "/navigating-the-challenges-of-data-lifecycle-management"
+to = "/blog/navigating-the-challenges-of-data-lifecycle-management/"
+status = 301
+
+[[redirects]]
+from = "/no-hassle-new-hires-northern-kentucky-it-onboarding/"
+to = "/blog/no-hassle-new-hires-northern-kentucky-it-onboarding/"
+status = 301
+
+[[redirects]]
+from = "/no-hassle-new-hires-northern-kentucky-it-onboarding"
+to = "/blog/no-hassle-new-hires-northern-kentucky-it-onboarding/"
+status = 301
+
+[[redirects]]
+from = "/northern-kentucky-managed-it-services-cloud-cost-control/"
+to = "/blog/northern-kentucky-managed-it-services-cloud-cost-control/"
+status = 301
+
+[[redirects]]
+from = "/northern-kentucky-managed-it-services-cloud-cost-control"
+to = "/blog/northern-kentucky-managed-it-services-cloud-cost-control/"
+status = 301
+
+[[redirects]]
+from = "/northern-kentucky-small-business-it-roadmap/"
+to = "/blog/northern-kentucky-small-business-it-roadmap/"
+status = 301
+
+[[redirects]]
+from = "/northern-kentucky-small-business-it-roadmap"
+to = "/blog/northern-kentucky-small-business-it-roadmap/"
+status = 301
+
+[[redirects]]
+from = "/organize-your-devices-for-better-productivity/"
+to = "/blog/organize-your-devices-for-better-productivity/"
+status = 301
+
+[[redirects]]
+from = "/organize-your-devices-for-better-productivity"
+to = "/blog/organize-your-devices-for-better-productivity/"
+status = 301
+
+[[redirects]]
+from = "/password-manager-security/"
+to = "/blog/password-manager-security/"
+status = 301
+
+[[redirects]]
+from = "/password-manager-security"
+to = "/blog/password-manager-security/"
+status = 301
+
+[[redirects]]
+from = "/password-spraying-detection-prevention/"
+to = "/blog/password-spraying-detection-prevention/"
+status = 301
+
+[[redirects]]
+from = "/password-spraying-detection-prevention"
+to = "/blog/password-spraying-detection-prevention/"
+status = 301
+
+[[redirects]]
+from = "/phishing-2-0-how-ai-is-amplifying-the-danger-and-what-you-can-do/"
+to = "/blog/phishing-2-0-how-ai-is-amplifying-the-danger-and-what-you-can-do/"
+status = 301
+
+[[redirects]]
+from = "/phishing-2-0-how-ai-is-amplifying-the-danger-and-what-you-can-do"
+to = "/blog/phishing-2-0-how-ai-is-amplifying-the-danger-and-what-you-can-do/"
+status = 301
+
+[[redirects]]
+from = "/prevent-account-hacks-advanced-business-security-tips/"
+to = "/blog/prevent-account-hacks-advanced-business-security-tips/"
+status = 301
+
+[[redirects]]
+from = "/prevent-account-hacks-advanced-business-security-tips"
+to = "/blog/prevent-account-hacks-advanced-business-security-tips/"
+status = 301
+
+[[redirects]]
+from = "/privacy-compliance-checklist/"
+to = "/blog/privacy-compliance-checklist/"
+status = 301
+
+[[redirects]]
+from = "/privacy-compliance-checklist"
+to = "/blog/privacy-compliance-checklist/"
+status = 301
+
+[[redirects]]
+from = "/protect-your-business-data-compliance/"
+to = "/blog/protect-your-business-data-compliance/"
+status = 301
+
+[[redirects]]
+from = "/protect-your-business-data-compliance"
+to = "/blog/protect-your-business-data-compliance/"
+status = 301
+
+[[redirects]]
+from = "/protect-yourself-8-steps-to-take-when-you-get-a-notice-your-data-was-breached/"
+to = "/blog/protect-yourself-8-steps-to-take-when-you-get-a-notice-your-data-was-breached/"
+status = 301
+
+[[redirects]]
+from = "/protect-yourself-8-steps-to-take-when-you-get-a-notice-your-data-was-breached"
+to = "/blog/protect-yourself-8-steps-to-take-when-you-get-a-notice-your-data-was-breached/"
+status = 301
+
+[[redirects]]
+from = "/remote-work-security-2025/"
+to = "/blog/remote-work-security-2025/"
+status = 301
+
+[[redirects]]
+from = "/remote-work-security-2025"
+to = "/blog/remote-work-security-2025/"
+status = 301
+
+[[redirects]]
+from = "/secure-ai-use-for-business/"
+to = "/blog/secure-ai-use-for-business/"
+status = 301
+
+[[redirects]]
+from = "/secure-ai-use-for-business"
+to = "/blog/secure-ai-use-for-business/"
+status = 301
+
+[[redirects]]
+from = "/secure-cloud-storage-northern-kentucky-business/"
+to = "/blog/secure-cloud-storage-northern-kentucky-business/"
+status = 301
+
+[[redirects]]
+from = "/secure-cloud-storage-northern-kentucky-business"
+to = "/blog/secure-cloud-storage-northern-kentucky-business/"
+status = 301
+
+[[redirects]]
+from = "/secure-guest-wi-fi-for-businesses/"
+to = "/blog/secure-guest-wi-fi-for-businesses/"
+status = 301
+
+[[redirects]]
+from = "/secure-guest-wi-fi-for-businesses"
+to = "/blog/secure-guest-wi-fi-for-businesses/"
+status = 301
+
+[[redirects]]
+from = "/securing-vendor-network-cybersecurity-nky-businesses/"
+to = "/blog/securing-vendor-network-cybersecurity-nky-businesses/"
+status = 301
+
+[[redirects]]
+from = "/securing-vendor-network-cybersecurity-nky-businesses"
+to = "/blog/securing-vendor-network-cybersecurity-nky-businesses/"
+status = 301
+
+[[redirects]]
+from = "/simple-it-guide-multi-factor-authentication-mfa/"
+to = "/blog/simple-it-guide-multi-factor-authentication-mfa/"
+status = 301
+
+[[redirects]]
+from = "/simple-it-guide-multi-factor-authentication-mfa"
+to = "/blog/simple-it-guide-multi-factor-authentication-mfa/"
+status = 301
+
+[[redirects]]
+from = "/simple-it-holiday-shopping-security-guide/"
+to = "/blog/simple-it-holiday-shopping-security-guide/"
+status = 301
+
+[[redirects]]
+from = "/simple-it-holiday-shopping-security-guide"
+to = "/blog/simple-it-holiday-shopping-security-guide/"
+status = 301
+
+[[redirects]]
+from = "/simple-it-refresh-strategy/"
+to = "/blog/simple-it-refresh-strategy/"
+status = 301
+
+[[redirects]]
+from = "/simple-it-refresh-strategy"
+to = "/blog/simple-it-refresh-strategy/"
+status = 301
+
+[[redirects]]
+from = "/simple-its-guide-to-secure-file-storage-and-transfers/"
+to = "/blog/simple-its-guide-to-secure-file-storage-and-transfers/"
+status = 301
+
+[[redirects]]
+from = "/simple-its-guide-to-secure-file-storage-and-transfers"
+to = "/blog/simple-its-guide-to-secure-file-storage-and-transfers/"
+status = 301
+
+[[redirects]]
+from = "/simple-its-ultimate-guide-to-encryption-methods/"
+to = "/blog/simple-its-ultimate-guide-to-encryption-methods/"
+status = 301
+
+[[redirects]]
+from = "/simple-its-ultimate-guide-to-encryption-methods"
+to = "/blog/simple-its-ultimate-guide-to-encryption-methods/"
+status = 301
+
+[[redirects]]
+from = "/simpleits-guide-to-pre-used-devices/"
+to = "/blog/simpleits-guide-to-pre-used-devices/"
+status = 301
+
+[[redirects]]
+from = "/simpleits-guide-to-pre-used-devices"
+to = "/blog/simpleits-guide-to-pre-used-devices/"
+status = 301
+
+[[redirects]]
+from = "/smart-ai-governance-for-small-business-success/"
+to = "/blog/smart-ai-governance-for-small-business-success/"
+status = 301
+
+[[redirects]]
+from = "/smart-ai-governance-for-small-business-success"
+to = "/blog/smart-ai-governance-for-small-business-success/"
+status = 301
+
+[[redirects]]
+from = "/smart-it-budgeting-northern-kentucky-businesses/"
+to = "/blog/smart-it-budgeting-northern-kentucky-businesses/"
+status = 301
+
+[[redirects]]
+from = "/smart-it-budgeting-northern-kentucky-businesses"
+to = "/blog/smart-it-budgeting-northern-kentucky-businesses/"
+status = 301
+
+[[redirects]]
+from = "/smart-office-iot-security-northern-kentucky/"
+to = "/blog/smart-office-iot-security-northern-kentucky/"
+status = 301
+
+[[redirects]]
+from = "/smart-office-iot-security-northern-kentucky"
+to = "/blog/smart-office-iot-security-northern-kentucky/"
+status = 301
+
+[[redirects]]
+from = "/smart-tips-for-building-a-smart-home-on-a-budget/"
+to = "/blog/smart-tips-for-building-a-smart-home-on-a-budget/"
+status = 301
+
+[[redirects]]
+from = "/smart-tips-for-building-a-smart-home-on-a-budget"
+to = "/blog/smart-tips-for-building-a-smart-home-on-a-budget/"
+status = 301
+
+[[redirects]]
+from = "/sneaky-malware-threats-northern-kentucky/"
+to = "/blog/sneaky-malware-threats-northern-kentucky/"
+status = 301
+
+[[redirects]]
+from = "/sneaky-malware-threats-northern-kentucky"
+to = "/blog/sneaky-malware-threats-northern-kentucky/"
+status = 301
+
+[[redirects]]
+from = "/spot-hidden-malware/"
+to = "/blog/spot-hidden-malware/"
+status = 301
+
+[[redirects]]
+from = "/spot-hidden-malware"
+to = "/blog/spot-hidden-malware/"
+status = 301
+
+[[redirects]]
+from = "/streamline-your-business-smart-automation-simple-it/"
+to = "/blog/streamline-your-business-smart-automation-simple-it/"
+status = 301
+
+[[redirects]]
+from = "/streamline-your-business-smart-automation-simple-it"
+to = "/blog/streamline-your-business-smart-automation-simple-it/"
+status = 301
+
+[[redirects]]
+from = "/streamlining-success-a-guide-to-task-automation-for-small-enterprises/"
+to = "/blog/streamlining-success-a-guide-to-task-automation-for-small-enterprises/"
+status = 301
+
+[[redirects]]
+from = "/streamlining-success-a-guide-to-task-automation-for-small-enterprises"
+to = "/blog/streamlining-success-a-guide-to-task-automation-for-small-enterprises/"
+status = 301
+
+[[redirects]]
+from = "/strong-passwords-login-security-guide/"
+to = "/blog/strong-passwords-login-security-guide/"
+status = 301
+
+[[redirects]]
+from = "/strong-passwords-login-security-guide"
+to = "/blog/strong-passwords-login-security-guide/"
+status = 301
+
+[[redirects]]
+from = "/taming-data-overload-simple-visualization-small-businesses/"
+to = "/blog/taming-data-overload-simple-visualization-small-businesses/"
+status = 301
+
+[[redirects]]
+from = "/taming-data-overload-simple-visualization-small-businesses"
+to = "/blog/taming-data-overload-simple-visualization-small-businesses/"
+status = 301
+
+[[redirects]]
+from = "/tech-savvy-workspaces-how-technology-drives-office-productivity/"
+to = "/blog/tech-savvy-workspaces-how-technology-drives-office-productivity/"
+status = 301
+
+[[redirects]]
+from = "/tech-savvy-workspaces-how-technology-drives-office-productivity"
+to = "/blog/tech-savvy-workspaces-how-technology-drives-office-productivity/"
+status = 301
+
+[[redirects]]
+from = "/the-new-u-s-cyber-trust-mark/"
+to = "/blog/the-new-u-s-cyber-trust-mark/"
+status = 301
+
+[[redirects]]
+from = "/the-new-u-s-cyber-trust-mark"
+to = "/blog/the-new-u-s-cyber-trust-mark/"
+status = 301
+
+[[redirects]]
+from = "/third-party-app-security-for-business/"
+to = "/blog/third-party-app-security-for-business/"
+status = 301
+
+[[redirects]]
+from = "/third-party-app-security-for-business"
+to = "/blog/third-party-app-security-for-business/"
+status = 301
+
+[[redirects]]
+from = "/threat-exposure-management-tem-what-is-it-how-does-it-help-and-why-is-it-critical-for-businesses-now-more-than-ever/"
+to = "/blog/threat-exposure-management-tem-what-is-it-how-does-it-help-and-why-is-it-critical-for-businesses-now-more-than-ever/"
+status = 301
+
+[[redirects]]
+from = "/threat-exposure-management-tem-what-is-it-how-does-it-help-and-why-is-it-critical-for-businesses-now-more-than-ever"
+to = "/blog/threat-exposure-management-tem-what-is-it-how-does-it-help-and-why-is-it-critical-for-businesses-now-more-than-ever/"
+status = 301
+
+[[redirects]]
+from = "/tips-to-boost-business-productivity-with-reliable-wifi/"
+to = "/blog/tips-to-boost-business-productivity-with-reliable-wifi/"
+status = 301
+
+[[redirects]]
+from = "/tips-to-boost-business-productivity-with-reliable-wifi"
+to = "/blog/tips-to-boost-business-productivity-with-reliable-wifi/"
+status = 301
+
+[[redirects]]
+from = "/top-6-smart-office-trends-to-adopt-for-an-improved-workflow/"
+to = "/blog/top-6-smart-office-trends-to-adopt-for-an-improved-workflow/"
+status = 301
+
+[[redirects]]
+from = "/top-6-smart-office-trends-to-adopt-for-an-improved-workflow"
+to = "/blog/top-6-smart-office-trends-to-adopt-for-an-improved-workflow/"
+status = 301
+
+[[redirects]]
+from = "/top-technologies-transforming-customer-service-today/"
+to = "/blog/top-technologies-transforming-customer-service-today/"
+status = 301
+
+[[redirects]]
+from = "/top-technologies-transforming-customer-service-today"
+to = "/blog/top-technologies-transforming-customer-service-today/"
+status = 301
+
+[[redirects]]
+from = "/unified-smart-homes-how-matter-is-setting-a-new-standard/"
+to = "/blog/unified-smart-homes-how-matter-is-setting-a-new-standard/"
+status = 301
+
+[[redirects]]
+from = "/unified-smart-homes-how-matter-is-setting-a-new-standard"
+to = "/blog/unified-smart-homes-how-matter-is-setting-a-new-standard/"
+status = 301
+
+[[redirects]]
+from = "/unmasking-the-true-price-of-it-downtime/"
+to = "/blog/unmasking-the-true-price-of-it-downtime/"
+status = 301
+
+[[redirects]]
+from = "/unmasking-the-true-price-of-it-downtime"
+to = "/blog/unmasking-the-true-price-of-it-downtime/"
+status = 301
+
+[[redirects]]
+from = "/watch-out-for-google-searches-malvertising-is-on-the-rise/"
+to = "/blog/watch-out-for-google-searches-malvertising-is-on-the-rise/"
+status = 301
+
+[[redirects]]
+from = "/watch-out-for-google-searches-malvertising-is-on-the-rise"
+to = "/blog/watch-out-for-google-searches-malvertising-is-on-the-rise/"
+status = 301
+
+[[redirects]]
+from = "/website-accessibility-for-small-businesses/"
+to = "/blog/website-accessibility-for-small-businesses/"
+status = 301
+
+[[redirects]]
+from = "/website-accessibility-for-small-businesses"
+to = "/blog/website-accessibility-for-small-businesses/"
+status = 301
+
+[[redirects]]
+from = "/website-data-collection-and-privacy/"
+to = "/blog/website-data-collection-and-privacy/"
+status = 301
+
+[[redirects]]
+from = "/website-data-collection-and-privacy"
+to = "/blog/website-data-collection-and-privacy/"
+status = 301
+
+[[redirects]]
+from = "/what-things-should-you-consider-before-buying-a-used-laptop/"
+to = "/blog/what-things-should-you-consider-before-buying-a-used-laptop/"
+status = 301
+
+[[redirects]]
+from = "/what-things-should-you-consider-before-buying-a-used-laptop"
+to = "/blog/what-things-should-you-consider-before-buying-a-used-laptop/"
+status = 301
+
+[[redirects]]
+from = "/what-were-the-coolest-consumer-products-showcased-at-ces-2024/"
+to = "/blog/what-were-the-coolest-consumer-products-showcased-at-ces-2024/"
+status = 301
+
+[[redirects]]
+from = "/what-were-the-coolest-consumer-products-showcased-at-ces-2024"
+to = "/blog/what-were-the-coolest-consumer-products-showcased-at-ces-2024/"
+status = 301
+
+[[redirects]]
+from = "/why-continuous-monitoring-is-a-cybersecurity-must/"
+to = "/blog/why-continuous-monitoring-is-a-cybersecurity-must/"
+status = 301
+
+[[redirects]]
+from = "/why-continuous-monitoring-is-a-cybersecurity-must"
+to = "/blog/why-continuous-monitoring-is-a-cybersecurity-must/"
+status = 301
+
+[[redirects]]
+from = "/why-securing-your-software-supply-chain-is-critical/"
+to = "/blog/why-securing-your-software-supply-chain-is-critical/"
+status = 301
+
+[[redirects]]
+from = "/why-securing-your-software-supply-chain-is-critical"
+to = "/blog/why-securing-your-software-supply-chain-is-critical/"
+status = 301
+
+[[redirects]]
+from = "/windows-10-the-final-countdown-its-time-to-upgrade-your-pc/"
+to = "/blog/windows-10-the-final-countdown-its-time-to-upgrade-your-pc/"
+status = 301
+
+[[redirects]]
+from = "/windows-10-the-final-countdown-its-time-to-upgrade-your-pc"
+to = "/blog/windows-10-the-final-countdown-its-time-to-upgrade-your-pc/"
+status = 301
+
+[[redirects]]
+from = "/your-it-roadmap-for-confident-business-growth/"
+to = "/blog/your-it-roadmap-for-confident-business-growth/"
+status = 301
+
+[[redirects]]
+from = "/your-it-roadmap-for-confident-business-growth"
+to = "/blog/your-it-roadmap-for-confident-business-growth/"
+status = 301
+
 [[redirects]]
 from = "/*"
 to = "/"
