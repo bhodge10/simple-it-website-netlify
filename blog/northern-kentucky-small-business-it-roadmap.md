@@ -3,8 +3,8 @@ title: "Growing Your Northern Kentucky Business? Start with a Simple IT Roadmap"
 date: 2025-10-20
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/northern-kentucky-small-business-it-roadmap.png"
+featuredImageAlt: "Northern Kentucky Small Business It Roadmap"
 categories:
   - "Managed IT"
 seoTitle: "Growing Your Northern Kentucky Business? Start with a Simple IT Roadmap | Simple IT Blog"

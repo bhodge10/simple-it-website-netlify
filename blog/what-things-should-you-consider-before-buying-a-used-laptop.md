@@ -3,8 +3,8 @@ title: "What Things Should You Consider Before Buying a Used Laptop?"
 date: 2024-10-01
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/what-things-should-you-consider-before-buying-a-used-laptop.jpg"
+featuredImageAlt: "What Things Should You Consider Before Buying A Used Laptop"
 categories:
   - "Tech Tips"
 seoTitle: "What Things Should You Consider Before Buying a Used Laptop? | Simple IT Blog"

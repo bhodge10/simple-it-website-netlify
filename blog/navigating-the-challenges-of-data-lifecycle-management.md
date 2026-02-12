@@ -3,8 +3,8 @@ title: "Navigating the Challenges of Data Lifecycle Management   "
 date: 2024-11-16
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/navigating-the-challenges-of-data-lifecycle-management.jpg"
+featuredImageAlt: "Navigating The Challenges Of Data Lifecycle Management"
 categories:
   - "Managed IT"
 seoTitle: "Navigating the Challenges of Data Lifecycle Management    | Simple IT Blog"

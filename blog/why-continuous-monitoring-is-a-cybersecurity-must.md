@@ -3,8 +3,8 @@ title: "Why Continuous Monitoring is a Cybersecurity Must"
 date: 2024-07-31
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/why-continuous-monitoring-is-a-cybersecurity-must.png"
+featuredImageAlt: "Why Continuous Monitoring Is A Cybersecurity Must"
 categories:
   - "Cybersecurity"
 seoTitle: "Why Continuous Monitoring is a Cybersecurity Must | Simple IT Blog"

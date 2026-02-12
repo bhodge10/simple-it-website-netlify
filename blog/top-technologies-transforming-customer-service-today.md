@@ -3,8 +3,8 @@ title: "Top Technologies Transforming Customer Service Today    "
 date: 2024-11-26
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/top-technologies-transforming-customer-service-today.png"
+featuredImageAlt: "Top Technologies Transforming Customer Service Today"
 categories:
   - "Business Tips"
 seoTitle: "Top Technologies Transforming Customer Service Today     | Simple IT Blog"

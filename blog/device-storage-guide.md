@@ -3,8 +3,8 @@ title: "How Much Device Storage Is Appropriate for What You Really Need? A Profe
 date: 2025-03-21
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/device-storage-guide.jpg"
+featuredImageAlt: "Device Storage Guide"
 categories:
   - "Tech Tips"
 seoTitle: "How Much Device Storage Is Appropriate for What You Really Need? A Professional Users Guide | Simple IT Blog"

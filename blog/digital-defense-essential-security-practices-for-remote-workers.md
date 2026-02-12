@@ -3,8 +3,8 @@ title: "Digital Defense: Essential Security Practices for Remote Workers"
 date: 2024-08-20
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/digital-defense-essential-security-practices-for-remote-workers.png"
+featuredImageAlt: "Digital Defense Essential Security Practices For Remote Workers"
 categories:
   - "Cybersecurity"
 seoTitle: "Digital Defense: Essential Security Practices for Remote Workers | Simple IT Blog"

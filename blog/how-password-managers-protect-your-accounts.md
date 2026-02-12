@@ -3,8 +3,8 @@ title: "How Password Managers Protect Your Accounts"
 date: 2025-01-07
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/how-password-managers-protect-your-accounts.png"
+featuredImageAlt: "How Password Managers Protect Your Accounts"
 categories:
   - "Cybersecurity"
 seoTitle: "How Password Managers Protect Your Accounts | Simple IT Blog"

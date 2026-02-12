@@ -3,8 +3,8 @@ title: "Boost Employee Morale and Retain Top Talent with Simple IT"
 date: 2025-10-08
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/boost-employee-morale-retain-top-talent-simple-it.jpg"
+featuredImageAlt: "Boost Employee Morale Retain Top Talent Simple It"
 categories:
   - "Managed IT"
 seoTitle: "Boost Employee Morale and Retain Top Talent with Simple IT | Simple IT Blog"

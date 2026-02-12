@@ -3,8 +3,8 @@ title: "Unmasking the True Price of IT Downtime     "
 date: 2024-09-13
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/unmasking-the-true-price-of-it-downtime.jpg"
+featuredImageAlt: "Unmasking The True Price Of It Downtime"
 categories:
   - "Managed IT"
 seoTitle: "Unmasking the True Price of IT Downtime      | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "iPhone Running Slow? Speed It up with One of These Tips"
 date: 2024-07-15
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/iphone-running-slow-speed-it-up-with-one-of-these-tips.jpg"
+featuredImageAlt: "Iphone Running Slow Speed It Up With One Of These Tips"
 categories:
   - "Tech Tips"
 seoTitle: "iPhone Running Slow? Speed It up with One of These Tips | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "Why Good Data is a Solid Foundation for Your Bluegrass Based Business"
 date: 2025-09-12
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/good-data-foundation-bluegrass-business.jpg"
+featuredImageAlt: "Good Data Foundation Bluegrass Business"
 categories:
   - "Managed IT"
 seoTitle: "Why Good Data is a Solid Foundation for Your Bluegrass Based Business | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "Windows 10: The Final Countdown – It's Time to Upgrade Your PC"
 date: 2024-09-20
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/windows-10-the-final-countdown-its-time-to-upgrade-your-pc.jpg"
+featuredImageAlt: "Windows 10 The Final Countdown Its Time To Upgrade Your Pc"
 categories:
   - "Tech Tips"
 seoTitle: "Windows 10: The Final Countdown – It's Time to Upgrade Your PC | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "Disaster-Proofing Your Northern Kentucky Business: Easy Backup and Recov
 date: 2025-07-09
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/disaster-proofing-northern-kentucky-business-backup-recovery-tips.jpg"
+featuredImageAlt: "Disaster Proofing Northern Kentucky Business Backup Recovery Tips"
 categories:
   - "Cybersecurity"
 seoTitle: "Disaster-Proofing Your Northern Kentucky Business: Easy Backup and Recovery Tips | Simple IT Blog"

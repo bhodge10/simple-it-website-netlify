@@ -3,8 +3,8 @@ title: "Privacy Compliance Checklist for Business Websites"
 date: 2025-12-22
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/privacy-compliance-checklist.jpg"
+featuredImageAlt: "Privacy Compliance Checklist"
 categories:
   - "Cybersecurity"
 seoTitle: "Privacy Compliance Checklist for Business Websites | Simple IT Blog"

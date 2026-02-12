@@ -3,8 +3,8 @@ title: "The Simple Guide to Strong Passwords and Smarter Login Security"
 date: 2025-06-02
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/strong-passwords-login-security-guide.png"
+featuredImageAlt: "Strong Passwords Login Security Guide"
 categories:
   - "Cybersecurity"
 seoTitle: "The Simple Guide to Strong Passwords and Smarter Login Security | Simple IT Blog"

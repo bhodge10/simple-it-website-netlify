@@ -3,8 +3,8 @@ title: "Simple IT Holiday Shopping Security Guide"
 date: 2025-12-09
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/simple-it-holiday-shopping-security-guide.png"
+featuredImageAlt: "Simple It Holiday Shopping Security Guide"
 categories:
   - "Cybersecurity"
 seoTitle: "Simple IT Holiday Shopping Security Guide | Simple IT Blog"

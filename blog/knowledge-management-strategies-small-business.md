@@ -3,8 +3,8 @@ title: "10 Knowledge Management Strategies To Unlock Your Team's Brainpower"
 date: 2025-09-15
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/knowledge-management-strategies-small-business.png"
+featuredImageAlt: "Knowledge Management Strategies Small Business"
 categories:
   - "Managed IT"
 seoTitle: "10 Knowledge Management Strategies To Unlock Your Team's Brainpower | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "Make Every Dollar Count – Smart IT Budgeting for Northern Kentucky Bus
 date: 2025-08-25
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/smart-it-budgeting-northern-kentucky-businesses.jpg"
+featuredImageAlt: "Smart It Budgeting Northern Kentucky Businesses"
 categories:
   - "Managed IT"
 seoTitle: "Make Every Dollar Count – Smart IT Budgeting for Northern Kentucky Businesses | Simple IT Blog"

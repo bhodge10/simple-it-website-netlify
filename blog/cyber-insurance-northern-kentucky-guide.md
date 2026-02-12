@@ -3,8 +3,8 @@ title: "Decoding Cyber Insurance: What Businesses Need to Know"
 date: 2025-06-17
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/cyber-insurance-northern-kentucky-guide.jpg"
+featuredImageAlt: "Cyber Insurance Northern Kentucky Guide"
 categories:
   - "Cybersecurity"
 seoTitle: "Decoding Cyber Insurance: What Businesses Need to Know | Simple IT Blog"

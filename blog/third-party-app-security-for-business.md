@@ -3,8 +3,8 @@ title: "Third-Party App Security for Business"
 date: 2025-12-18
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/third-party-app-security-for-business.png"
+featuredImageAlt: "Third Party App Security For Business"
 categories:
   - "Cybersecurity"
 seoTitle: "Third-Party App Security for Business | Simple IT Blog"

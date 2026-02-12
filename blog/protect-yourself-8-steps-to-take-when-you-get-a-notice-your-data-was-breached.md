@@ -3,8 +3,8 @@ title: "Protect Yourself: 8 Steps to Take When You Get a Notice Your Data Was Br
 date: 2024-12-11
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/protect-yourself-8-steps-to-take-when-you-get-a-notice-your-data-was-breached.png"
+featuredImageAlt: "Protect Yourself 8 Steps To Take When You Get A Notice Your Data Was Breached"
 categories:
   - "Cybersecurity"
 seoTitle: "Protect Yourself: 8 Steps to Take When You Get a Notice Your Data Was Breached                  | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "How to Know When It’s Time for a Device Upgrade? 7 Signs to Consider"
 date: 2025-03-26
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/device-upgrade-7-signs-to-consider.jpg"
+featuredImageAlt: "Device Upgrade 7 Signs To Consider"
 categories:
   - "Industry News"
 seoTitle: "How to Know When It’s Time for a Device Upgrade? 7 Signs to Consider | Simple IT Blog"

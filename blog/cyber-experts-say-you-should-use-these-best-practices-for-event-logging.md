@@ -3,8 +3,8 @@ title: "Cyber Experts Say You Should Use These Best Practices for Event Logging"
 date: 2024-12-13
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/cyber-experts-say-you-should-use-these-best-practices-for-event-logging.png"
+featuredImageAlt: "Cyber Experts Say You Should Use These Best Practices For Event Logging"
 categories:
   - "Cybersecurity"
 seoTitle: "Cyber Experts Say You Should Use These Best Practices for Event Logging | Simple IT Blog"

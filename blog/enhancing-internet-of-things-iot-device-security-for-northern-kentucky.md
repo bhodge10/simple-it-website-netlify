@@ -3,8 +3,8 @@ title: "Enhancing Internet of Things (IoT) Device Security for Northern Kentucky
 date: 2025-01-10
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/enhancing-internet-of-things-iot-device-security-for-northern-kentucky.png"
+featuredImageAlt: "Enhancing Internet Of Things Iot Device Security For Northern Kentucky"
 categories:
   - "Cybersecurity"
 seoTitle: "Enhancing Internet of Things (IoT) Device Security for Northern Kentucky  | Simple IT Blog"

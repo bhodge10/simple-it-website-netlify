@@ -3,8 +3,8 @@ title: "Phishing 2.0: How AI is Amplifying the Danger and What You Can Do"
 date: 2024-08-30
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/phishing-2-0-how-ai-is-amplifying-the-danger-and-what-you-can-do.png"
+featuredImageAlt: "Phishing 2 0 How Ai Is Amplifying The Danger And What You Can Do"
 categories:
   - "Cybersecurity"
 seoTitle: "Phishing 2.0: How AI is Amplifying the Danger and What You Can Do | Simple IT Blog"

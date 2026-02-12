@@ -3,8 +3,8 @@ title: "AI Automation: How Businesses Can Use AI to Work Smarter"
 date: 2025-06-20
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/ai-automation-how-businesses-can-use-ai-to-work-smarter.jpg"
+featuredImageAlt: "Ai Automation How Businesses Can Use Ai To Work Smarter"
 categories:
   - "Managed IT"
 seoTitle: "AI Automation: How Businesses Can Use AI to Work Smarter | Simple IT Blog"

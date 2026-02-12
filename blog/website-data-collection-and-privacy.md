@@ -3,8 +3,8 @@ title: "Website Data Collection & Privacy – Best Practices from Simple IT"
 date: 2025-06-09
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/website-data-collection-and-privacy.png"
+featuredImageAlt: "Website Data Collection And Privacy"
 categories:
   - "Cybersecurity"
 seoTitle: "Website Data Collection & Privacy – Best Practices from Simple IT | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "5 New Trends from a Study on the State of AI at Work"
 date: 2024-12-19
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/5-new-trends-from-a-study-on-the-state-of-ai-at-work.jpg"
+featuredImageAlt: "5 New Trends From A Study On The State Of Ai At Work"
 categories:
   - "Industry News"
 seoTitle: "5 New Trends from a Study on the State of AI at Work | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "Secure AI Use for Business Data"
 date: 2026-01-07
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/secure-ai-use-for-business.jpg"
+featuredImageAlt: "Secure Ai Use For Business"
 categories:
   - "Cybersecurity"
 seoTitle: "Secure AI Use for Business Data | Simple IT Blog"

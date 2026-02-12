@@ -3,8 +3,8 @@ title: "Guide to Smart Windows 11 Settings to Boost Your Productivity"
 date: 2024-12-07
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/guide-to-smart-windows-11-settings-to-boost-your-productivity.png"
+featuredImageAlt: "Guide To Smart Windows 11 Settings To Boost Your Productivity"
 categories:
   - "Tech Tips"
 seoTitle: "Guide to Smart Windows 11 Settings to Boost Your Productivity | Simple IT Blog"

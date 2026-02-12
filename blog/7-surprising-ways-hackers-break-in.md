@@ -3,8 +3,8 @@ title: "7 Surprising Ways Hackers Sneak Into Your Accounts (And How to Outsmart 
 date: 2025-05-16
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/7-surprising-ways-hackers-break-in.jpg"
+featuredImageAlt: "7 Surprising Ways Hackers Break In"
 categories:
   - "Cybersecurity"
 seoTitle: "7 Surprising Ways Hackers Sneak Into Your Accounts (And How to Outsmart Them!) | Simple IT Blog"

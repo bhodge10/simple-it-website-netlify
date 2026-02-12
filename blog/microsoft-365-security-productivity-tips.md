@@ -3,8 +3,8 @@ title: "Microsoft 365: 10 Simple Ways to Boost Security and Productivity"
 date: 2025-05-06
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/microsoft-365-security-productivity-tips.jpg"
+featuredImageAlt: "Microsoft 365 Security Productivity Tips"
 categories:
   - "Managed IT"
 seoTitle: "Microsoft 365: 10 Simple Ways to Boost Security and Productivity | Simple IT Blog"

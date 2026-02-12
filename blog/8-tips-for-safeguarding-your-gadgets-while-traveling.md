@@ -3,8 +3,8 @@ title: "8 Tips for Safeguarding Your Gadgets While Traveling"
 date: 2024-09-16
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/8-tips-for-safeguarding-your-gadgets-while-traveling.png"
+featuredImageAlt: "8 Tips For Safeguarding Your Gadgets While Traveling"
 categories:
   - "Cybersecurity"
 seoTitle: "8 Tips for Safeguarding Your Gadgets While Traveling | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "What is Blockchain Technology and How Does it Work?"
 date: 2025-01-30
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/blockchain-technology.jpg"
+featuredImageAlt: "Blockchain Technology"
 categories:
   - "Industry News"
 seoTitle: "What is Blockchain Technology and How Does it Work? | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "7 Great Examples of How AI is Helping Small Businesses"
 date: 2024-12-04
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/7-great-examples-of-how-ai-is-helping-small-businesses.jpg"
+featuredImageAlt: "7 Great Examples Of How Ai Is Helping Small Businesses"
 categories:
   - "Business Tips"
 seoTitle: "7 Great Examples of How AI is Helping Small Businesses | Simple IT Blog"

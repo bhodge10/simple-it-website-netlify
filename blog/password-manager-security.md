@@ -3,8 +3,8 @@ title: "Can Password Managers Be Hacked?"
 date: 2025-02-11
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/password-manager-security.png"
+featuredImageAlt: "Password Manager Security"
 categories:
   - "Cybersecurity"
 seoTitle: "Can Password Managers Be Hacked? | Simple IT Blog"

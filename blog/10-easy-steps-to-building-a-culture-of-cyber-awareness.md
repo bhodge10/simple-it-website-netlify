@@ -3,8 +3,8 @@ title: "10 Easy Steps to Building a Culture of Cyber Awareness"
 date: 2024-07-12
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/10-easy-steps-to-building-a-culture-of-cyber-awareness.jpg"
+featuredImageAlt: "10 Easy Steps To Building A Culture Of Cyber Awareness"
 categories:
   - "Cybersecurity"
 seoTitle: "10 Easy Steps to Building a Culture of Cyber Awareness | Simple IT Blog"

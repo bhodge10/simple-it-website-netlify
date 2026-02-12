@@ -3,8 +3,8 @@ title: "Build a Secure ITAD Process for Your NKY Business"
 date: 2026-01-05
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/build-a-secure-itad-process.jpg"
+featuredImageAlt: "Build A Secure Itad Process"
 categories:
   - "Cybersecurity"
 seoTitle: "Build a Secure ITAD Process for Your NKY Business | Simple IT Blog"

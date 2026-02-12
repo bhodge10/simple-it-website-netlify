@@ -3,8 +3,8 @@ title: "Securing Your Vendor Network: Simple Cybersecurity for NKY Businesses"
 date: 2025-08-11
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/securing-vendor-network-cybersecurity-nky-businesses.png"
+featuredImageAlt: "Securing Vendor Network Cybersecurity Nky Businesses"
 categories:
   - "Cybersecurity"
 seoTitle: "Securing Your Vendor Network: Simple Cybersecurity for NKY Businesses | Simple IT Blog"

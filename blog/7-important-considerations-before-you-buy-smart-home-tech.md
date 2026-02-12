@@ -3,8 +3,8 @@ title: "7 Important Considerations Before You Buy Smart Home Tech  "
 date: 2024-08-05
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/7-important-considerations-before-you-buy-smart-home-tech.jpg"
+featuredImageAlt: "7 Important Considerations Before You Buy Smart Home Tech"
 categories:
   - "Industry News"
 seoTitle: "7 Important Considerations Before You Buy Smart Home Tech   | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "10 Steps to Prevent a Data Breach"
 date: 2025-03-10
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/10-steps-to-prevent-a-data-breach.png"
+featuredImageAlt: "10 Steps To Prevent A Data Breach"
 categories:
   - "Cybersecurity"
 seoTitle: "10 Steps to Prevent a Data Breach | Simple IT Blog"

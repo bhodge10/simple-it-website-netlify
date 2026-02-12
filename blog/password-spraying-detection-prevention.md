@@ -3,8 +3,8 @@ title: "Password Spraying: How to Detect, Prevent, and Stay Protected"
 date: 2025-05-09
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/password-spraying-detection-prevention.png"
+featuredImageAlt: "Password Spraying Detection Prevention"
 categories:
   - "Cybersecurity"
 seoTitle: "Password Spraying: How to Detect, Prevent, and Stay Protected | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "Threat Exposure Management (TEM) … What is it, How does it help, and W
 date: 2025-01-15
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/threat-exposure-management-tem-what-is-it-how-does-it-help-and-why-is-it-critical-for-businesses-now-more-than-ever.png"
+featuredImageAlt: "Threat Exposure Management Tem What Is It How Does It Help And Why Is It Critical For Businesses Now More Than Ever"
 categories:
   - "Cybersecurity"
 seoTitle: "Threat Exposure Management (TEM) … What is it, How does it help, and Why is it critical for businesses now more than ever?  | Simple IT Blog"

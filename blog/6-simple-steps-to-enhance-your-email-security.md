@@ -3,8 +3,8 @@ title: "6 Simple Steps to Enhance Your Email Security"
 date: 2024-11-12
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/6-simple-steps-to-enhance-your-email-security.jpg"
+featuredImageAlt: "6 Simple Steps To Enhance Your Email Security"
 categories:
   - "Cybersecurity"
 seoTitle: "6 Simple Steps to Enhance Your Email Security | Simple IT Blog"

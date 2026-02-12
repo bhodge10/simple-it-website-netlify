@@ -3,8 +3,8 @@ title: "Remote Work Security: Smart Strategies for Safer Teams in 2025"
 date: 2025-07-07
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/remote-work-security-2025.jpg"
+featuredImageAlt: "Remote Work Security 2025"
 categories:
   - "Cybersecurity"
 seoTitle: "Remote Work Security: Smart Strategies for Safer Teams in 2025 | Simple IT Blog"

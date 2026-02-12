@@ -3,8 +3,8 @@ title: "Credential Theft Protection: Stronger Logins, Safer Data"
 date: 2025-11-20
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/credential-theft-protection-strong-logins-safe-data.png"
+featuredImageAlt: "Credential Theft Protection Strong Logins Safe Data"
 categories:
   - "Cybersecurity"
 seoTitle: "Credential Theft Protection: Stronger Logins, Safer Data | Simple IT Blog"

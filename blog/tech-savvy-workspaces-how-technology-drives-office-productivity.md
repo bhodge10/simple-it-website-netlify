@@ -3,8 +3,8 @@ title: "Tech-Savvy Workspaces: How Technology Drives Office Productivity    "
 date: 2024-08-15
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/tech-savvy-workspaces-how-technology-drives-office-productivity.jpg"
+featuredImageAlt: "Tech Savvy Workspaces How Technology Drives Office Productivity"
 categories:
   - "Tech Tips"
 seoTitle: "Tech-Savvy Workspaces: How Technology Drives Office Productivity     | Simple IT Blog"

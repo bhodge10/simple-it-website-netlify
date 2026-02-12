@@ -3,8 +3,8 @@ title: "Streamlining Success: A Guide to Task Automation for Small Enterprises"
 date: 2024-09-10
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/streamlining-success-a-guide-to-task-automation-for-small-enterprises.png"
+featuredImageAlt: "Streamlining Success A Guide To Task Automation For Small Enterprises"
 categories:
   - "Tech Tips"
 seoTitle: "Streamlining Success: A Guide to Task Automation for Small Enterprises | Simple IT Blog"

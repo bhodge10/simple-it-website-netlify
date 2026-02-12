@@ -3,8 +3,8 @@ title: "Cloud Compliance for NKY Businesses and Government Agencies"
 date: 2025-11-24
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/cloud-compliance-nky-businesses.png"
+featuredImageAlt: "Cloud Compliance Nky Businesses"
 categories:
   - "Cloud"
 seoTitle: "Cloud Compliance for NKY Businesses and Government Agencies | Simple IT Blog"

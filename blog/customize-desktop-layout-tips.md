@@ -3,8 +3,8 @@ title: "10 Cool Ways to Customize Your Desktop for Better Workflow"
 date: 2025-04-23
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/customize-desktop-layout-tips.jpg"
+featuredImageAlt: "Customize Desktop Layout Tips"
 categories:
   - "Managed IT"
 seoTitle: "10 Cool Ways to Customize Your Desktop for Better Workflow | Simple IT Blog"

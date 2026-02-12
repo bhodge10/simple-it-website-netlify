@@ -3,8 +3,8 @@ title: "Simple IT’s Guide to Secure File Storage and Transfers"
 date: 2025-02-19
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/simple-its-guide-to-secure-file-storage-and-transfers.jpg"
+featuredImageAlt: "Simple Its Guide To Secure File Storage And Transfers"
 categories:
   - "Managed IT"
 seoTitle: "Simple IT’s Guide to Secure File Storage and Transfers | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "How to Minimize the Damage of Ransomware for Your Northern Kentucky Busi
 date: 2025-02-28
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/minimize-ransomware.png"
+featuredImageAlt: "Minimize Ransomware"
 categories:
   - "Cybersecurity"
 seoTitle: "How to Minimize the Damage of Ransomware for Your Northern Kentucky Business | Simple IT Blog"

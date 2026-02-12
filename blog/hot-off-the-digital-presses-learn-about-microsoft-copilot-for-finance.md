@@ -3,8 +3,8 @@ title: "Hot off the Digital Presses… Learn About Microsoft Copilot for Finance
 date: 2024-07-19
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/hot-off-the-digital-presses-learn-about-microsoft-copilot-for-finance.jpg"
+featuredImageAlt: "Hot Off The Digital Presses Learn About Microsoft Copilot For Finance"
 categories:
   - "Tech Tips"
 seoTitle: "Hot off the Digital Presses… Learn About Microsoft Copilot for Finance | Simple IT Blog"

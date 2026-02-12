@@ -3,8 +3,8 @@ title: "Cloud Storage Security for Northern Kentucky Businesses: Stay Safe & Con
 date: 2025-05-28
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/secure-cloud-storage-northern-kentucky-business.png"
+featuredImageAlt: "Secure Cloud Storage Northern Kentucky Business"
 categories:
   - "Cybersecurity"
 seoTitle: "Cloud Storage Security for Northern Kentucky Businesses: Stay Safe & Connected | Simple IT Blog"

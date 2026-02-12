@@ -3,8 +3,8 @@ title: "Data Breach Damage Control: Avoid These Pitfalls"
 date: 2024-11-23
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/data-breach-damage-control-avoid-these-pitfalls.jpg"
+featuredImageAlt: "Data Breach Damage Control Avoid These Pitfalls"
 categories:
   - "Managed IT"
 seoTitle: "Data Breach Damage Control: Avoid These Pitfalls | Simple IT Blog"

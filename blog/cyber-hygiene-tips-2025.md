@@ -3,8 +3,8 @@ title: "How Is Your Cyber Hygiene? Essential Tips For 2025"
 date: 2025-01-22
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/cyber-hygiene-tips-2025.png"
+featuredImageAlt: "Cyber Hygiene Tips 2025"
 categories:
   - "Cybersecurity"
 seoTitle: "How Is Your Cyber Hygiene? Essential Tips For 2025 | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "Black Friday Tips – Business Tech Without the Headache"
 date: 2025-11-19
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/black-friday-business-tech-tips.png"
+featuredImageAlt: "Black Friday Business Tech Tips"
 categories:
   - "Managed IT"
 seoTitle: "Black Friday Tips – Business Tech Without the Headache | Simple IT Blog"

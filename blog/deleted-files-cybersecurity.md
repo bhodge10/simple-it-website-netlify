@@ -3,8 +3,8 @@ title: "Where Do Deleted Files Really Go? (And Why it Matters to Business Cybers
 date: 2025-04-17
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/deleted-files-cybersecurity.jpg"
+featuredImageAlt: "Deleted Files Cybersecurity"
 categories:
   - "Cybersecurity"
 seoTitle: "Where Do Deleted Files Really Go? (And Why it Matters to Business Cybersecurity) | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "Website Accessibility Builds Small Business Trust, Traffic, & Growth"
 date: 2025-12-20
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/website-accessibility-for-small-businesses.png"
+featuredImageAlt: "Website Accessibility For Small Businesses"
 categories:
   - "Managed IT"
 seoTitle: "Website Accessibility Builds Small Business Trust, Traffic, & Growth | Simple IT Blog"

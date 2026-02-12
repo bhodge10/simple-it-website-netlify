@@ -3,8 +3,8 @@ title: "Enhancing Employee Performance with a Mobile-Optimized Workspace"
 date: 2024-10-25
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/enhancing-employee-performance-with-a-mobile-optimized-workspace.jpg"
+featuredImageAlt: "Enhancing Employee Performance With A Mobile Optimized Workspace"
 categories:
   - "Tech Tips"
 seoTitle: "Enhancing Employee Performance with a Mobile-Optimized Workspace | Simple IT Blog"

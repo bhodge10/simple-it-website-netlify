@@ -3,8 +3,8 @@ title: "Smart Tips for Building a Smart Home on a Budget"
 date: 2024-06-28
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/smart-tips-for-building-a-smart-home-on-a-budget.jpg"
+featuredImageAlt: "Smart Tips For Building A Smart Home On A Budget"
 categories:
   - "Industry News"
 seoTitle: "Smart Tips for Building a Smart Home on a Budget | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "Unified Smart Homes: How Matter is Setting a New Standard "
 date: 2024-08-25
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/unified-smart-homes-how-matter-is-setting-a-new-standard.jpg"
+featuredImageAlt: "Unified Smart Homes How Matter Is Setting A New Standard"
 categories:
   - "Industry News"
 seoTitle: "Unified Smart Homes: How Matter is Setting a New Standard  | Simple IT Blog"

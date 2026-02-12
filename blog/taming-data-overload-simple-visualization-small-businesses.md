@@ -3,8 +3,8 @@ title: "Taming Data Overload with Simple Visualization Tools for Small Businesse
 date: 2025-10-06
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/taming-data-overload-simple-visualization-small-businesses.png"
+featuredImageAlt: "Taming Data Overload Simple Visualization Small Businesses"
 categories:
   - "Business Tips"
 seoTitle: "Taming Data Overload with Simple Visualization Tools for Small Businesses in Northern Kentucky | Simple IT Blog"

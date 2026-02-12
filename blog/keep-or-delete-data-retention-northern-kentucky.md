@@ -3,8 +3,8 @@ title: "Keep or Delete? A Business Data Retention Guide for Northern Kentucky"
 date: 2025-07-23
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/keep-or-delete-data-retention-northern-kentucky.jpg"
+featuredImageAlt: "Keep Or Delete Data Retention Northern Kentucky"
 categories:
   - "Cybersecurity"
 seoTitle: "Keep or Delete? A Business Data Retention Guide for Northern Kentucky | Simple IT Blog"

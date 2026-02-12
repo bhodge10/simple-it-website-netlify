@@ -3,8 +3,8 @@ title: "AI for Business: What to Know to Avoid Challenges"
 date: 2025-03-12
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/ai-for-business-to-avoid-challenges.jpg"
+featuredImageAlt: "Ai For Business To Avoid Challenges"
 categories:
   - "Industry News"
 seoTitle: "AI for Business: What to Know to Avoid Challenges | Simple IT Blog"

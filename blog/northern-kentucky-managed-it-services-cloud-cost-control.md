@@ -3,8 +3,8 @@ title: "Northern Kentucky Managed IT Services for Cloud Cost Control"
 date: 2025-12-30
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/northern-kentucky-managed-it-services-cloud-cost-control.png"
+featuredImageAlt: "Northern Kentucky Managed It Services Cloud Cost Control"
 categories:
   - "Cybersecurity"
 seoTitle: "Northern Kentucky Managed IT Services for Cloud Cost Control | Simple IT Blog"

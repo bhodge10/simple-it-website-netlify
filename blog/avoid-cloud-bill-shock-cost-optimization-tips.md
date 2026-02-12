@@ -3,8 +3,8 @@ title: "Avoid Cloud Bill Shock: Cost-Saving Tips for Northern Kentucky Businesse
 date: 2025-08-07
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/avoid-cloud-bill-shock-cost-optimization-tips.jpg"
+featuredImageAlt: "Avoid Cloud Bill Shock Cost Optimization Tips"
 categories:
   - "Cloud"
 seoTitle: "Avoid Cloud Bill Shock: Cost-Saving Tips for Northern Kentucky Businesses | Simple IT Blog"

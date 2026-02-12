@@ -3,8 +3,8 @@ title: "AI Data Breaches are Rising! Here's How to Protect Your Company  "
 date: 2024-08-09
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/ai-data-breaches-are-rising-heres-how-to-protect-your-company.png"
+featuredImageAlt: "Ai Data Breaches Are Rising Heres How To Protect Your Company"
 categories:
   - "Cybersecurity"
 seoTitle: "AI Data Breaches are Rising! Here's How to Protect Your Company   | Simple IT Blog"

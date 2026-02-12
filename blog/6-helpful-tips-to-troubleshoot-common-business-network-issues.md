@@ -3,8 +3,8 @@ title: "6 Helpful Tips to Troubleshoot Common Business Network Issues  "
 date: 2024-10-14
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/6-helpful-tips-to-troubleshoot-common-business-network-issues.png"
+featuredImageAlt: "6 Helpful Tips To Troubleshoot Common Business Network Issues"
 categories:
   - "Managed IT"
 seoTitle: "6 Helpful Tips to Troubleshoot Common Business Network Issues   | Simple IT Blog"

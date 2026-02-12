@@ -3,8 +3,8 @@ title: "Secure Guest Wi-Fi for Your Business"
 date: 2026-01-12
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/secure-guest-wi-fi-for-businesses.png"
+featuredImageAlt: "Secure Guest Wi Fi For Businesses"
 categories:
   - "Cybersecurity"
 seoTitle: "Secure Guest Wi-Fi for Your Business | Simple IT Blog"

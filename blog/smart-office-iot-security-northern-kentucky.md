@@ -3,8 +3,8 @@ title: "Is Your Smart Office a Security Risk? What NKY Businesses Need to Know A
 date: 2025-09-08
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/smart-office-iot-security-northern-kentucky.jpg"
+featuredImageAlt: "Smart Office Iot Security Northern Kentucky"
 categories:
   - "Cybersecurity"
 seoTitle: "Is Your Smart Office a Security Risk? What NKY Businesses Need to Know About IoT | Simple IT Blog"

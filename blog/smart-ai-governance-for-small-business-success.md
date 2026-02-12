@@ -3,8 +3,8 @@ title: "Smart AI Governance for Business Success"
 date: 2025-12-11
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/smart-ai-governance-for-small-business-success.jpg"
+featuredImageAlt: "Smart Ai Governance For Small Business Success"
 categories:
   - "Cybersecurity"
 seoTitle: "Smart AI Governance for Business Success | Simple IT Blog"

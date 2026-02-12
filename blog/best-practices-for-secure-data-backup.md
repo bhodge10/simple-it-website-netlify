@@ -3,8 +3,8 @@ title: "Best Practices for Secure Data Backup"
 date: 2025-02-06
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/best-practices-for-secure-data-backup.jpg"
+featuredImageAlt: "Best Practices For Secure Data Backup"
 categories:
   - "Managed IT"
 seoTitle: "Best Practices for Secure Data Backup | Simple IT Blog"

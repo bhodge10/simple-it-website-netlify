@@ -3,8 +3,8 @@ title: "Common Cyber Threats Lurking in 2025 … and How To Avoid Them"
 date: 2025-02-04
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/cyber-threats-2025.png"
+featuredImageAlt: "Cyber Threats 2025"
 categories:
   - "Cybersecurity"
 seoTitle: "Common Cyber Threats Lurking in 2025 … and How To Avoid Them | Simple IT Blog"

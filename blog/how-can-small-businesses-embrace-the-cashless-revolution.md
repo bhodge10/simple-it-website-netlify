@@ -3,8 +3,8 @@ title: "How Can Small Businesses Embrace the Cashless Revolution? "
 date: 2024-12-31
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/how-can-small-businesses-embrace-the-cashless-revolution.jpg"
+featuredImageAlt: "How Can Small Businesses Embrace The Cashless Revolution"
 categories:
   - "Industry News"
 seoTitle: "How Can Small Businesses Embrace the Cashless Revolution?  | Simple IT Blog"

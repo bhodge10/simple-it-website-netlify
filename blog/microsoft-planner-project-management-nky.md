@@ -3,8 +3,8 @@ title: "Chaos to Clarity: How Microsoft Planner Transforms Projects for Business
 date: 2025-08-28
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/microsoft-planner-project-management-nky.jpg"
+featuredImageAlt: "Microsoft Planner Project Management Nky"
 categories:
   - "Business Tips"
 seoTitle: "Chaos to Clarity: How Microsoft Planner Transforms Projects for Businesses | Simple IT Blog"

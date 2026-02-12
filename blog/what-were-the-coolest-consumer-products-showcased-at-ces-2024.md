@@ -3,8 +3,8 @@ title: "What Were the Coolest Consumer Products Showcased at CES 2024?"
 date: 2024-07-01
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/what-were-the-coolest-consumer-products-showcased-at-ces-2024.jpg"
+featuredImageAlt: "What Were The Coolest Consumer Products Showcased At Ces 2024"
 categories:
   - "Industry News"
 seoTitle: "What Were the Coolest Consumer Products Showcased at CES 2024? | Simple IT Blog"

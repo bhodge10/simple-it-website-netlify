@@ -3,8 +3,8 @@ title: "Simple IT’s Guide to Multi-Factor Authentication (MFA)"
 date: 2025-06-24
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/simple-it-guide-multi-factor-authentication-mfa.png"
+featuredImageAlt: "Simple It Guide Multi Factor Authentication Mfa"
 categories:
   - "Cybersecurity"
 seoTitle: "Simple IT’s Guide to Multi-Factor Authentication (MFA) | Simple IT Blog"

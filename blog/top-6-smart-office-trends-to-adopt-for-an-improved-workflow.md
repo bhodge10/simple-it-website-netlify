@@ -3,8 +3,8 @@ title: "Top 6 Smart Office Trends to Adopt for an Improved Workflow"
 date: 2024-09-25
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/top-6-smart-office-trends-to-adopt-for-an-improved-workflow.png"
+featuredImageAlt: "Top 6 Smart Office Trends To Adopt For An Improved Workflow"
 categories:
   - "Tech Tips"
 seoTitle: "Top 6 Smart Office Trends to Adopt for an Improved Workflow | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "Microsoft 365 Cost Savings With Simple IT"
 date: 2025-12-05
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/microsoft-365-cost-savings-simple-it.jpg"
+featuredImageAlt: "Microsoft 365 Cost Savings Simple It"
 categories:
   - "Managed IT"
 seoTitle: "Microsoft 365 Cost Savings With Simple IT | Simple IT Blog"

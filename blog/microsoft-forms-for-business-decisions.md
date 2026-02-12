@@ -3,8 +3,8 @@ title: "Microsoft Forms for Business Decisions – Unlock Your Data's Power!"
 date: 2025-11-26
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/microsoft-forms-for-business-decisions.jpg"
+featuredImageAlt: "Microsoft Forms For Business Decisions"
 categories:
   - "Managed IT"
 seoTitle: "Microsoft Forms for Business Decisions – Unlock Your Data's Power! | Simple IT Blog"

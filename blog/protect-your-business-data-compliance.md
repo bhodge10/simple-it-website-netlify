@@ -3,8 +3,8 @@ title: "Data Regulations: What Northern Kentucky Businesses Need to Know"
 date: 2025-10-24
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/protect-your-business-data-compliance.jpg"
+featuredImageAlt: "Protect Your Business Data Compliance"
 categories:
   - "Cybersecurity"
 seoTitle: "Data Regulations: What Northern Kentucky Businesses Need to Know | Simple IT Blog"

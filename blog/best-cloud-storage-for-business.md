@@ -3,8 +3,8 @@ title: "Choosing the Best Cloud Storage for Your Business"
 date: 2025-07-01
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/best-cloud-storage-for-business.png"
+featuredImageAlt: "Best Cloud Storage For Business"
 categories:
   - "Cloud"
 seoTitle: "Choosing the Best Cloud Storage for Your Business | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "Simple IT’s Ultimate Guide to Encryption Methods"
 date: 2025-01-27
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/simple-its-ultimate-guide-to-encryption-methods.jpg"
+featuredImageAlt: "Simple Its Ultimate Guide To Encryption Methods"
 categories:
   - "Cybersecurity"
 seoTitle: "Simple IT’s Ultimate Guide to Encryption Methods | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "Watch Out for Google Searches – \"Malvertising\" Is on the Rise!  "
 date: 2024-12-24
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/watch-out-for-google-searches-malvertising-is-on-the-rise.png"
+featuredImageAlt: "Watch Out For Google Searches Malvertising Is On The Rise"
 categories:
   - "Cybersecurity"
 seoTitle: "Watch Out for Google Searches – \"Malvertising\" Is on the Rise!   | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "10 AI Tools To Boost Your Office Productivity"
 date: 2025-02-14
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/ai-tools-to-boost-office-productivity.png"
+featuredImageAlt: "Ai Tools To Boost Office Productivity"
 categories:
   - "Tech Tips"
 seoTitle: "10 AI Tools To Boost Your Office Productivity | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "Is Your Business Losing Money Because Employees Can't Use Tech?"
 date: 2024-07-10
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/is-your-business-losing-money-because-employees-cant-use-tech.jpg"
+featuredImageAlt: "Is Your Business Losing Money Because Employees Cant Use Tech"
 categories:
   - "Business Tips"
 seoTitle: "Is Your Business Losing Money Because Employees Can't Use Tech? | Simple IT Blog"

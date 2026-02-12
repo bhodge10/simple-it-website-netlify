@@ -3,8 +3,8 @@ title: "Essential Settings to Maximize Your Microsoft 365 Experience "
 date: 2024-10-29
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/essential-settings-to-maximize-your-microsoft-365-experience.jpg"
+featuredImageAlt: "Essential Settings To Maximize Your Microsoft 365 Experience"
 categories:
   - "Tech Tips"
 seoTitle: "Essential Settings to Maximize Your Microsoft 365 Experience  | Simple IT Blog"

@@ -3,8 +3,8 @@ title: "Why Securing Your Software Supply Chain is Critical"
 date: 2024-10-25
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/why-securing-your-software-supply-chain-is-critical.png"
+featuredImageAlt: "Why Securing Your Software Supply Chain Is Critical"
 categories:
   - "Managed IT"
 seoTitle: "Why Securing Your Software Supply Chain is Critical | Simple IT Blog"

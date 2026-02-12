@@ -3,8 +3,8 @@ title: "Prevent Account Hacks with Advanced Business Security Tips"
 date: 2025-10-21
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/prevent-account-hacks-advanced-business-security-tips.png"
+featuredImageAlt: "Prevent Account Hacks Advanced Business Security Tips"
 categories:
   - "Cybersecurity"
 seoTitle: "Prevent Account Hacks with Advanced Business Security Tips | Simple IT Blog"

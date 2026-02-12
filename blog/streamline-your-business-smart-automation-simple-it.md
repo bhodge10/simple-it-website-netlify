@@ -3,8 +3,8 @@ title: "Streamline Your Business with Smart Automation from Simple IT"
 date: 2025-08-04
 author: "Kevin Lane"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/streamline-your-business-smart-automation-simple-it.png"
+featuredImageAlt: "Streamline Your Business Smart Automation Simple It"
 categories:
   - "Managed IT"
 seoTitle: "Streamline Your Business with Smart Automation from Simple IT | Simple IT Blog"

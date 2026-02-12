@@ -3,8 +3,8 @@ title: "What is the New U.S. Cyber Trust Mark and How Can it Protect Your Busine
 date: 2025-03-17
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/the-new-u-s-cyber-trust-mark.png"
+featuredImageAlt: "The New U S Cyber Trust Mark"
 categories:
   - "Cybersecurity"
 seoTitle: "What is the New U.S. Cyber Trust Mark and How Can it Protect Your Business? | Simple IT Blog"

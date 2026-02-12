@@ -3,8 +3,8 @@ title: "Guide to Improving Your Company's Data Management"
 date: 2024-06-24
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/guide-to-improving-your-companys-data-management.png"
+featuredImageAlt: "Guide To Improving Your Companys Data Management"
 categories:
   - "Managed IT"
 seoTitle: "Guide to Improving Your Company's Data Management | Simple IT Blog"

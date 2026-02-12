@@ -3,8 +3,8 @@ title: "Protecting Business Data from the Dark Web… Can It Be Deleted?"
 date: 2025-05-21
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/dark-web-security-northern-kentucky.jpg"
+featuredImageAlt: "Dark Web Security Northern Kentucky"
 categories:
   - "Cybersecurity"
 seoTitle: "Protecting Business Data from the Dark Web… Can It Be Deleted? | Simple IT Blog"

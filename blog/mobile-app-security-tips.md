@@ -3,8 +3,8 @@ title: "Mobile Application Security: Essential Tips to Keep Your Business Data S
 date: 2025-03-31
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/mobile-app-security-tips.png"
+featuredImageAlt: "Mobile App Security Tips"
 categories:
   - "Cybersecurity"
 seoTitle: "Mobile Application Security: Essential Tips to Keep Your Business Data Safe | Simple IT Blog"

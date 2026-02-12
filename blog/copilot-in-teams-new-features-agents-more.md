@@ -3,8 +3,8 @@ title: "Copilot in Teams – New Features, Agents & More"
 date: 2024-11-20
 author: "Samantha Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/copilot-in-teams-new-features-agents-more.jpg"
+featuredImageAlt: "Copilot In Teams New Features Agents More"
 categories:
   - "Tech Tips"
 seoTitle: "Copilot in Teams – New Features, Agents & More | Simple IT Blog"

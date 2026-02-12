@@ -3,8 +3,8 @@ title: "No Hassle New Hires: How Simple IT Helps Northern Kentucky Businesses On
 date: 2025-07-29
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/no-hassle-new-hires-northern-kentucky-it-onboarding.jpg"
+featuredImageAlt: "No Hassle New Hires Northern Kentucky It Onboarding"
 categories:
   - "Managed IT"
 seoTitle: "No Hassle New Hires: How Simple IT Helps Northern Kentucky Businesses Onboard | Simple IT Blog"

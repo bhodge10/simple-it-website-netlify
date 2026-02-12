@@ -3,8 +3,8 @@ title: "Gmail Security Threats in 2025: What Businesses in Northern Kentucky Nee
 date: 2025-04-14
 author: "Brad Hodge"
 draft: false
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/blog/gmail-security-threats-in-2025.png"
+featuredImageAlt: "Gmail Security Threats In 2025"
 categories:
   - "Cybersecurity"
 seoTitle: "Gmail Security Threats in 2025: What Businesses in Northern Kentucky Need to Know | Simple IT Blog"
