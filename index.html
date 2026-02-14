@@ -1514,17 +1514,19 @@
                 background: rgba(10, 14, 39, 0.98);
                 backdrop-filter: blur(10px);
                 flex-direction: column;
-                padding: 2rem;
+                padding: 0 2rem;
                 gap: 1.5rem;
                 max-height: 0;
                 overflow: hidden;
-                transition: max-height 0.3s ease;
-                border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+                transition: max-height 0.3s ease, padding 0.3s ease;
+                border-bottom: none;
                 z-index: 999;
             }
-            
+
             .nav-links.active {
                 max-height: 600px;
+                padding: 2rem;
+                border-bottom: 1px solid rgba(255, 255, 255, 0.1);
             }
             
             .nav-links li {
