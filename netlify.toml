@@ -1847,6 +1847,127 @@ from = "/cameras"
 to = "/security-cameras.html"
 status = 301
 
+# Location pages pretty URLs
+[[redirects]]
+from = "/it-services-ft-mitchell-ky/"
+to = "/it-services-ft-mitchell-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-ft-mitchell-ky"
+to = "/it-services-ft-mitchell-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-covington-ky/"
+to = "/it-services-covington-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-covington-ky"
+to = "/it-services-covington-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-florence-ky/"
+to = "/it-services-florence-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-florence-ky"
+to = "/it-services-florence-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-erlanger-ky/"
+to = "/it-services-erlanger-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-erlanger-ky"
+to = "/it-services-erlanger-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-newport-ky/"
+to = "/it-services-newport-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-newport-ky"
+to = "/it-services-newport-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-independence-ky/"
+to = "/it-services-independence-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-independence-ky"
+to = "/it-services-independence-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-edgewood-ky/"
+to = "/it-services-edgewood-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-edgewood-ky"
+to = "/it-services-edgewood-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-villa-hills-ky/"
+to = "/it-services-villa-hills-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-villa-hills-ky"
+to = "/it-services-villa-hills-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-crescent-springs-ky/"
+to = "/it-services-crescent-springs-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-crescent-springs-ky"
+to = "/it-services-crescent-springs-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-union-ky/"
+to = "/it-services-union-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-union-ky"
+to = "/it-services-union-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-hebron-ky/"
+to = "/it-services-hebron-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-hebron-ky"
+to = "/it-services-hebron-ky.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-cincinnati-oh/"
+to = "/it-services-cincinnati-oh.html"
+status = 301
+
+[[redirects]]
+from = "/it-services-cincinnati-oh"
+to = "/it-services-cincinnati-oh.html"
+status = 301
+
 # Catch-all: return 404 page (not a redirect)
 [[redirects]]
 from = "/*"
