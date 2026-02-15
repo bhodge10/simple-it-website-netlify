@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Not Found | Simple IT</title>
+    <meta name="robots" content="noindex">
+    <meta name="description" content="The page you're looking for doesn't exist. Let us help you find what you need.">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;600;700;800&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --primary: #0066FF;
+            --primary-dark: #0052CC;
+            --secondary: #00D4AA;
+            --dark: #0A0E27;
+            --dark-secondary: #1A1F3A;
+            --text: #E8EBF7;
+            --text-secondary: #9CA3C3;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Sora', sans-serif;
+            background: var(--dark);
+            color: var(--text);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        nav {
+            background: rgba(10, 14, 39, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 1.5rem 2rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .nav-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 800;
+            color: var(--text);
+            text-decoration: none;
+        }
+
+        .nav-phone {
+            color: var(--text);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .error-page {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 4rem 2rem;
+            text-align: center;
+        }
+
+        .error-content {
+            max-width: 600px;
+        }
+
+        .error-code {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: clamp(5rem, 15vw, 10rem);
+            font-weight: 800;
+            color: var(--primary);
+            line-height: 1;
+            margin-bottom: 1rem;
+        }
+
+        .error-content h1 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        .error-content p {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            margin-bottom: 2.5rem;
+        }
+
+        .helpful-links {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+            margin-bottom: 2.5rem;
+        }
+
+        .helpful-links a {
+            background: var(--dark-secondary);
+            padding: 1.5rem;
+            border-radius: 12px;
+            text-decoration: none;
+            color: var(--text);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            transition: border-color 0.3s, transform 0.3s;
+        }
+
+        .helpful-links a:hover {
+            border-color: var(--primary);
+            transform: translateY(-2px);
+        }
+
+        .helpful-links a h3 {
+            color: var(--primary);
+            font-size: 1.1rem;
+            margin-bottom: 0.3rem;
+        }
+
+        .helpful-links a p {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            margin-bottom: 0;
+        }
+
+        .btn-primary {
+            display: inline-block;
+            padding: 1rem 2rem;
+            background: var(--primary);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: background 0.3s, transform 0.3s;
+        }
+
+        .btn-primary:hover {
+            background: var(--primary-dark);
+            transform: translateY(-2px);
+        }
+
+        .phone-cta {
+            margin-top: 1.5rem;
+            color: var(--text-secondary);
+        }
+
+        .phone-cta a {
+            color: var(--secondary);
+            text-decoration: none;
+            font-weight: 700;
+        }
+
+        footer {
+            background: var(--dark-secondary);
+            padding: 2rem;
+            text-align: center;
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        footer p {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: var(--text-secondary);
+            text-decoration: none;
+        }
+
+        @media (max-width: 500px) {
+            .helpful-links {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-W6T2XSC5NN"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-W6T2XSC5NN');
+    </script>
+    <!-- End Google Analytics -->
+</head>
+<body>
+    <nav>
+        <div class="nav-content">
+            <a href="/" class="logo">SIMPLE IT</a>
+            <a href="tel:8594497878" class="nav-phone">859-449-7878</a>
+        </div>
+    </nav>
+
+    <main class="error-page">
+        <div class="error-content">
+            <div class="error-code">404</div>
+            <h1>Page Not Found</h1>
+            <p>The page you're looking for doesn't exist or has been moved. Here are some helpful links to get you back on track.</p>
+
+            <div class="helpful-links">
+                <a href="/">
+                    <h3>Home</h3>
+                    <p>Back to the homepage</p>
+                </a>
+                <a href="/our-services">
+                    <h3>Services</h3>
+                    <p>View all IT services</p>
+                </a>
+                <a href="/blog/">
+                    <h3>Blog</h3>
+                    <p>IT tips & resources</p>
+                </a>
+                <a href="/contact-us">
+                    <h3>Contact</h3>
+                    <p>Get in touch with us</p>
+                </a>
+            </div>
+
+            <a href="/" class="btn-primary">Go to Homepage</a>
+
+            <p class="phone-cta">
+                Need help now? Call us: <a href="tel:8594497878">859-449-7878</a>
+            </p>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Simple IT, LLC. All rights reserved.</p>
+        <p style="margin-top: 0.5rem;">
+            <a href="/privacy-policy" style="margin-right: 1rem;">Privacy Policy</a>
+            <a href="/terms-of-service">Terms of Service</a>
+        </p>
+    </footer>
+</body>
+</html>

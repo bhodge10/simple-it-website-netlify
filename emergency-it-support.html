@@ -12,7 +12,16 @@
     <meta property="og:title" content="Emergency IT Support | 15-Min Response | Simple IT">
     <meta property="og:description" content="Emergency IT support with guaranteed 15-minute response time in Northern Kentucky. Same-day onsite service. 11-minute average response. Available 24/7/365.">
     <meta property="og:type" content="website">
-    
+    <meta property="og:image" content="https://simple-it.us/simple-it-logo.png">
+    <meta property="og:url" content="https://simple-it.us/emergency-it-support.html">
+    <meta property="og:site_name" content="Simple IT">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Emergency IT Support | 15-Min Response | Simple IT">
+    <meta name="twitter:description" content="Emergency IT support with guaranteed 15-minute response time in Northern Kentucky. Same-day onsite service. Available 24/7/365.">
+    <meta name="twitter:image" content="https://simple-it.us/simple-it-logo.png">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;600;700;800&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
@@ -163,6 +172,24 @@
       ]
     }
     </script>
+
+    <!-- Service Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Emergency IT Support",
+      "description": "Emergency IT support with guaranteed 15-minute response time in Northern Kentucky. Same-day onsite service available 24/7/365.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Simple IT",
+        "url": "https://simple-it.us",
+        "telephone": "859-449-7878"
+      },
+      "areaServed": "Northern Kentucky and Greater Cincinnati",
+      "serviceType": "Emergency IT Support"
+    }
+    </script>
 </head>
 <body>
     <!-- Navigation - Same as main site -->
@@ -189,7 +216,7 @@
     <section class="service-hero">
         <div style="max-width: 1200px; margin: 0 auto; width: 100%;">
             <div class="breadcrumb">
-                <a href="/">Home</a> / <a href="/#services">Services</a> / Managed IT Services
+                <a href="/">Home</a> / <a href="/our-services">Services</a> / Emergency IT Support
             </div>
             
             <h1 style="font-size: clamp(2.5rem, 6vw, 4rem); margin-bottom: 1.5rem;">
@@ -421,6 +448,25 @@
         </div>
     </section>
 
+    <!-- Related Services -->
+    <section style="max-width: 1200px; margin: 0 auto; padding: 0 var(--spacing) 4rem;">
+        <h2 style="font-size: 2rem; margin-bottom: 2rem;">Related Services</h2>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;">
+            <a href="/managed-it-services" style="background: var(--dark-secondary); padding: 2rem; border-radius: 12px; text-decoration: none; color: var(--text); border: 1px solid rgba(255,255,255,0.05); transition: border-color 0.3s;">
+                <h3 style="color: var(--primary); margin-bottom: 0.5rem;">Managed IT Services</h3>
+                <p style="color: var(--text-secondary); font-size: 0.95rem;">Proactive monitoring prevents emergencies before they happen.</p>
+            </a>
+            <a href="/cybersecurity-solutions" style="background: var(--dark-secondary); padding: 2rem; border-radius: 12px; text-decoration: none; color: var(--text); border: 1px solid rgba(255,255,255,0.05); transition: border-color 0.3s;">
+                <h3 style="color: var(--primary); margin-bottom: 0.5rem;">Cybersecurity Solutions</h3>
+                <p style="color: var(--text-secondary); font-size: 0.95rem;">Security incident response and breach containment.</p>
+            </a>
+            <a href="/business-continuity" style="background: var(--dark-secondary); padding: 2rem; border-radius: 12px; text-decoration: none; color: var(--text); border: 1px solid rgba(255,255,255,0.05); transition: border-color 0.3s;">
+                <h3 style="color: var(--primary); margin-bottom: 0.5rem;">Business Continuity</h3>
+                <p style="color: var(--text-secondary); font-size: 0.95rem;">Disaster recovery planning ensures fast recovery from any incident.</p>
+            </a>
+        </div>
+    </section>
+
     <!-- CTA Section -->
     <section id="contact" style="background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%); padding: 4rem var(--spacing); text-align: center;">
         <div style="max-width: 800px; margin: 0 auto;">
@@ -428,7 +474,7 @@
             <p style="font-size: 1.2rem; color: rgba(255, 255, 255, 0.9); margin-bottom: 2rem;">
                 Get a free IT assessment and see how we can improve your technology infrastructure while reducing costs.
             </p>
-            
+
             <form action="/submit-ticket.html" method="get" style="max-width: 500px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
                 <input type="text" name="name" placeholder="Your Name *" required style="padding: 1rem; border-radius: 8px; border: none; font-size: 1rem;">
                 <input type="email" name="email" placeholder="Work Email *" required style="padding: 1rem; border-radius: 8px; border: none; font-size: 1rem;">
@@ -437,11 +483,11 @@
                     Schedule My Free Assessment →
                 </button>
             </form>
-            
+
             <p style="margin-top: 1.5rem; color: rgba(255, 255, 255, 0.8); font-size: 0.9rem;">
                 🔒 We never share your information. No spam. No pressure.
             </p>
-            
+
             <p style="margin-top: 1rem; color: rgba(255, 255, 255, 0.9);">
                 Or call us directly: <a href="tel:8594497878" style="color: white; font-weight: 700; text-decoration: none;">859-449-7878</a>
             </p>
@@ -470,6 +516,10 @@
                         <li style="margin-bottom: 0.5rem;"><a href="/cybersecurity-solutions" style="color: var(--text-secondary); text-decoration: none;">Cybersecurity</a></li>
                         <li style="margin-bottom: 0.5rem;"><a href="/cloud-solutions" style="color: var(--text-secondary); text-decoration: none;">Cloud Solutions</a></li>
                         <li style="margin-bottom: 0.5rem;"><a href="/emergency-it-support" style="color: var(--text-secondary); text-decoration: none;">Emergency Support</a></li>
+                        <li style="margin-bottom: 0.5rem;"><a href="/business-continuity" style="color: var(--text-secondary); text-decoration: none;">Business Continuity</a></li>
+                        <li style="margin-bottom: 0.5rem;"><a href="/voip-phone-systems" style="color: var(--text-secondary); text-decoration: none;">VoIP Phone Systems</a></li>
+                        <li style="margin-bottom: 0.5rem;"><a href="/network-cabling" style="color: var(--text-secondary); text-decoration: none;">Network Cabling</a></li>
+                        <li style="margin-bottom: 0.5rem;"><a href="/security-cameras" style="color: var(--text-secondary); text-decoration: none;">Security Cameras</a></li>
                     </ul>
                 </div>
                 

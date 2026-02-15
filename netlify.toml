@@ -583,12 +583,12 @@ status = 301
 
 [[redirects]]
 from = "/services/cabling/"
-to = "/our-services.html"
+to = "/network-cabling.html"
 status = 301
 
 [[redirects]]
 from = "/services/cabling"
-to = "/our-services.html"
+to = "/network-cabling.html"
 status = 301
 
 # WordPress blog post redirects (old root URLs -> new /blog/ URLs)
@@ -1733,10 +1733,74 @@ from = "/your-it-roadmap-for-confident-business-growth"
 to = "/blog/your-it-roadmap-for-confident-business-growth/"
 status = 301
 
+# VoIP Phone Systems pretty URLs
+[[redirects]]
+from = "/voip-phone-systems/"
+to = "/voip-phone-systems.html"
+status = 301
+
+[[redirects]]
+from = "/voip-phone-systems"
+to = "/voip-phone-systems.html"
+status = 301
+
+[[redirects]]
+from = "/voip/"
+to = "/voip-phone-systems.html"
+status = 301
+
+[[redirects]]
+from = "/voip"
+to = "/voip-phone-systems.html"
+status = 301
+
+# Network Cabling pretty URLs
+[[redirects]]
+from = "/network-cabling/"
+to = "/network-cabling.html"
+status = 301
+
+[[redirects]]
+from = "/network-cabling"
+to = "/network-cabling.html"
+status = 301
+
+[[redirects]]
+from = "/cabling/"
+to = "/network-cabling.html"
+status = 301
+
+[[redirects]]
+from = "/cabling"
+to = "/network-cabling.html"
+status = 301
+
+# Security Cameras pretty URLs
+[[redirects]]
+from = "/security-cameras/"
+to = "/security-cameras.html"
+status = 301
+
+[[redirects]]
+from = "/security-cameras"
+to = "/security-cameras.html"
+status = 301
+
+[[redirects]]
+from = "/cameras/"
+to = "/security-cameras.html"
+status = 301
+
+[[redirects]]
+from = "/cameras"
+to = "/security-cameras.html"
+status = 301
+
+# Catch-all: return 404 page (not a redirect)
 [[redirects]]
 from = "/*"
-to = "/"
-status = 301
+to = "/404.html"
+status = 404
 
 [context]
 

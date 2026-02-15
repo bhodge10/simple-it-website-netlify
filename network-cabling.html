@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Design &amp; Structured Cabling | Simple IT - Northern Kentucky &amp; Cincinnati</title>
+    <link rel="canonical" href="https://simple-it.us/network-cabling.html">
+    <meta name="description" content="Professional network design and structured cabling for Northern Kentucky businesses. Cat6, fiber optic, WiFi optimization, and network planning. Free site surveys available.">
+    <meta name="keywords" content="network cabling Northern Kentucky, structured cabling Cincinnati, Cat6 installation, fiber optic cabling, WiFi optimization, network design">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Network Design & Structured Cabling | Simple IT">
+    <meta property="og:description" content="Professional network design and structured cabling for Northern Kentucky businesses. Cat6, fiber optic, WiFi optimization, and network planning. Free site surveys available.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://simple-it.us/simple-it-logo.png">
+    <meta property="og:url" content="https://simple-it.us/network-cabling.html">
+    <meta property="og:site_name" content="Simple IT">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Network Design & Structured Cabling | Simple IT">
+    <meta name="twitter:description" content="Professional network design and structured cabling for Northern Kentucky businesses. Cat6, fiber optic, WiFi optimization, and network planning. Free site surveys available.">
+    <meta name="twitter:image" content="https://simple-it.us/simple-it-logo.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;600;700;800&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+
+    <!-- Reuse same styles from main site -->
+    <link rel="stylesheet" href="/styles.css">
+
+    <style>
+        /* Page-specific styles */
+        .service-hero {
+            min-height: 60vh;
+            background: linear-gradient(135deg, var(--dark) 0%, var(--dark-secondary) 100%);
+            display: flex;
+            align-items: center;
+            padding: 6rem var(--spacing) 4rem;
+            position: relative;
+        }
+
+        .breadcrumb {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+        }
+
+        .breadcrumb a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        .breadcrumb a:hover {
+            text-decoration: underline;
+        }
+
+        .service-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 4rem var(--spacing);
+        }
+
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin: 3rem 0;
+        }
+
+        .feature-card {
+            background: var(--dark-secondary);
+            padding: 2rem;
+            border-radius: 12px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .feature-card h3 {
+            color: var(--primary);
+            margin-bottom: 1rem;
+            font-size: 1.3rem;
+        }
+
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 3rem 0;
+            background: var(--dark-secondary);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+
+        .comparison-table th,
+        .comparison-table td {
+            padding: 1.5rem;
+            text-align: left;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .comparison-table th {
+            background: rgba(0, 102, 255, 0.1);
+            color: var(--primary);
+            font-weight: 600;
+        }
+
+        .comparison-table .check {
+            color: var(--secondary);
+            font-size: 1.5rem;
+        }
+
+        .comparison-table .cross {
+            color: #ff6b6b;
+            font-size: 1.5rem;
+        }
+    </style>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-W6T2XSC5NN"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-W6T2XSC5NN');
+    </script>
+    <!-- End Google Analytics -->
+
+    <!-- FAQPage Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What type of cabling do you recommend for businesses?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For most businesses, we recommend Cat6A cabling\u2014it supports 10 Gigabit speeds and is future-proof for the next 15+ years. For longer runs or higher-density environments, we install fiber optic. We assess your specific needs and recommend the most cost-effective solution."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a cabling project typically take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A small office (10-20 drops) typically takes 1-2 days. Medium projects (50-100 drops) take 3-5 days. Larger projects vary, but we always provide a detailed timeline before starting. We schedule around your business hours to minimize disruption."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you improve our WiFi without running new cables?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sometimes, yes. We can optimize access point placement, upgrade equipment, and adjust channel configurations. However, enterprise WiFi still needs wired backhaul to each access point for best performance. We\u2019ll do a free site survey and recommend the most cost-effective approach."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you handle permits and building codes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We\u2019re familiar with Kentucky and Ohio building codes and handle all coordination. Our installations meet or exceed TIA/EIA standards. We also provide full documentation and certification testing on every drop we install."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What\u2019s included in a network assessment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our free network assessment includes a site survey of your current cabling and equipment, WiFi heat mapping to identify dead zones and interference, bandwidth testing at multiple points, and a written report with prioritized recommendations. There\u2019s no obligation\u2014just honest information about your network."
+          }
+        }
+      ]
+    }
+    </script>
+
+    <!-- Service Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Network Design & Structured Cabling",
+      "description": "Professional network design, structured cabling installation, and WiFi optimization for Northern Kentucky businesses.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Simple IT",
+        "url": "https://simple-it.us",
+        "telephone": "859-449-7878"
+      },
+      "areaServed": "Northern Kentucky and Greater Cincinnati",
+      "serviceType": "Network Design & Cabling"
+    }
+    </script>
+</head>
+<body>
+    <!-- Navigation - Same as main site -->
+    <nav>
+        <div class="nav-container">
+            <a href="/" class="logo">SIMPLE IT</a>
+            <ul class="nav-links">
+                <li><a href="/#services">Services</a></li>
+                <li><a href="/#why-us">Why Us</a></li>
+                <li><a href="/#testimonials">Testimonials</a></li>
+                <li><a href="/blog/">Blog</a></li>
+                <li><a href="/remote-support" class="nav-support-btn">Remote Support</a></li>
+                <li><a href="/submit-ticket.html" target="_blank" class="nav-ticket-btn">Open Ticket</a></li>
+                <li><a href="/#contact" class="nav-cta">Get Started</a></li>
+            </ul>
+            <div class="contact-info">
+                <span>📞 859-449-7878</span>
+            </div>
+            <button class="mobile-menu-btn" aria-label="Toggle menu">☰</button>
+        </div>
+    </nav>
+
+    <!-- Service Hero -->
+    <section class="service-hero">
+        <div style="max-width: 1200px; margin: 0 auto; width: 100%;">
+            <div class="breadcrumb">
+                <a href="/">Home</a> / <a href="/our-services">Services</a> / Network Design &amp; Cabling
+            </div>
+
+            <h1 style="font-size: clamp(2.5rem, 6vw, 4rem); margin-bottom: 1.5rem;">
+                Network Design &amp; Structured Cabling
+            </h1>
+
+            <p style="font-size: 1.3rem; color: var(--text-secondary); max-width: 700px; margin-bottom: 2rem;">
+                Professional network infrastructure design, structured cabling installation, and WiFi optimization. Built to handle today's demands and tomorrow's growth.
+            </p>
+
+            <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                <a href="#contact" class="btn btn-primary btn-large">Get Free Network Assessment →</a>
+                <a href="tel:8594497878" class="btn btn-secondary btn-large">📞 Call: 859-449-7878</a>
+            </div>
+
+            <div style="margin-top: 3rem; display: flex; gap: 3rem; flex-wrap: wrap;">
+                <div>
+                    <div style="font-size: 2.5rem; font-weight: 700; color: var(--secondary);">8x</div>
+                    <div style="color: var(--text-secondary);">WiFi Speed Improvement</div>
+                </div>
+                <div>
+                    <div style="font-size: 2.5rem; font-weight: 700; color: var(--secondary);">Cat6/Fiber</div>
+                    <div style="color: var(--text-secondary);">Enterprise-Grade Cabling</div>
+                </div>
+                <div>
+                    <div style="font-size: 2.5rem; font-weight: 700; color: var(--secondary);">15+ Years</div>
+                    <div style="color: var(--text-secondary);">Of Installations</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <section class="service-content">
+        <h2 style="font-size: 2.5rem; margin-bottom: 1.5rem;">Our Network &amp; Cabling Services</h2>
+        <p style="font-size: 1.1rem; color: var(--text-secondary); margin-bottom: 3rem;">
+            From structured cabling to complete network design, we build the infrastructure your business depends on. Every installation is certified, documented, and built to last.
+        </p>
+
+        <div class="feature-grid">
+            <div class="feature-card">
+                <h3>🔌 Structured Cabling</h3>
+                <ul>
+                    <li>Cat5e, Cat6, Cat6A installation</li>
+                    <li>Patch panel &amp; rack setup</li>
+                    <li>Cable management</li>
+                    <li>Labeling &amp; documentation</li>
+                    <li>Certification testing</li>
+                </ul>
+            </div>
+
+            <div class="feature-card">
+                <h3>🌐 Fiber Optic Solutions</h3>
+                <ul>
+                    <li>Single &amp; multi-mode fiber</li>
+                    <li>Backbone cabling</li>
+                    <li>Long-distance runs</li>
+                    <li>Splice &amp; termination</li>
+                    <li>OTDR testing</li>
+                </ul>
+            </div>
+
+            <div class="feature-card">
+                <h3>📡 WiFi Design &amp; Optimization</h3>
+                <ul>
+                    <li>Wireless site surveys</li>
+                    <li>Access point placement</li>
+                    <li>Heat map analysis</li>
+                    <li>Channel optimization</li>
+                    <li>Guest network setup</li>
+                </ul>
+            </div>
+
+            <div class="feature-card">
+                <h3>🏗️ Network Design &amp; Planning</h3>
+                <ul>
+                    <li>Network topology design</li>
+                    <li>Bandwidth planning</li>
+                    <li>Scalability assessment</li>
+                    <li>Equipment specification</li>
+                    <li>Future-proofing strategy</li>
+                </ul>
+            </div>
+
+            <div class="feature-card">
+                <h3>🖥️ Network Equipment</h3>
+                <ul>
+                    <li>Switch &amp; router installation</li>
+                    <li>Firewall deployment</li>
+                    <li>UPS &amp; power protection</li>
+                    <li>Rack &amp; enclosure setup</li>
+                    <li>Cable tray installation</li>
+                </ul>
+            </div>
+
+            <div class="feature-card">
+                <h3>📋 Testing &amp; Documentation</h3>
+                <ul>
+                    <li>Certification testing (Fluke)</li>
+                    <li>As-built documentation</li>
+                    <li>Floor plan mapping</li>
+                    <li>Cable labeling system</li>
+                    <li>Warranty documentation</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Real Result -->
+        <div style="background: var(--dark-secondary); padding: 3rem; border-radius: 16px; margin: 4rem 0; border-left: 4px solid var(--primary);">
+            <h3 style="font-size: 2rem; margin-bottom: 1rem; color: var(--primary);">Real Result:</h3>
+            <p style="font-size: 1.3rem; margin-bottom: 1.5rem;">
+                Redesigned network for 50-person Covington firm increased their WiFi speeds by 8x and eliminated dead zones entirely.
+            </p>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin-top: 2rem;">
+                <div>
+                    <div style="font-size: 2.5rem; font-weight: 700; color: var(--secondary);">8x</div>
+                    <div style="color: var(--text-secondary);">WiFi Speed Improvement</div>
+                </div>
+                <div>
+                    <div style="font-size: 2.5rem; font-weight: 700; color: var(--secondary);">0</div>
+                    <div style="color: var(--text-secondary);">Dead Zones Remaining</div>
+                </div>
+                <div>
+                    <div style="font-size: 2.5rem; font-weight: 700; color: var(--secondary);">50+</div>
+                    <div style="color: var(--text-secondary);">Users Supported</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- FAQ Section -->
+        <h2 style="font-size: 2.5rem; margin: 4rem 0 2rem;">Frequently Asked Questions</h2>
+
+        <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <div style="background: var(--dark-secondary); padding: 2rem; border-radius: 12px;">
+                <h3 style="color: var(--primary); margin-bottom: 1rem;">What type of cabling do you recommend for businesses?</h3>
+                <p>For most businesses, we recommend Cat6A cabling—it supports 10 Gigabit speeds and is future-proof for the next 15+ years. For longer runs or higher-density environments, we install fiber optic. We assess your specific needs and recommend the most cost-effective solution.</p>
+            </div>
+
+            <div style="background: var(--dark-secondary); padding: 2rem; border-radius: 12px;">
+                <h3 style="color: var(--primary); margin-bottom: 1rem;">How long does a cabling project typically take?</h3>
+                <p>A small office (10-20 drops) typically takes 1-2 days. Medium projects (50-100 drops) take 3-5 days. Larger projects vary, but we always provide a detailed timeline before starting. We schedule around your business hours to minimize disruption.</p>
+            </div>
+
+            <div style="background: var(--dark-secondary); padding: 2rem; border-radius: 12px;">
+                <h3 style="color: var(--primary); margin-bottom: 1rem;">Can you improve our WiFi without running new cables?</h3>
+                <p>Sometimes, yes. We can optimize access point placement, upgrade equipment, and adjust channel configurations. However, enterprise WiFi still needs wired backhaul to each access point for best performance. We'll do a free site survey and recommend the most cost-effective approach.</p>
+            </div>
+
+            <div style="background: var(--dark-secondary); padding: 2rem; border-radius: 12px;">
+                <h3 style="color: var(--primary); margin-bottom: 1rem;">Do you handle permits and building codes?</h3>
+                <p>Yes. We're familiar with Kentucky and Ohio building codes and handle all coordination. Our installations meet or exceed TIA/EIA standards. We also provide full documentation and certification testing on every drop we install.</p>
+            </div>
+
+            <div style="background: var(--dark-secondary); padding: 2rem; border-radius: 12px;">
+                <h3 style="color: var(--primary); margin-bottom: 1rem;">What's included in a network assessment?</h3>
+                <p>Our free network assessment includes a site survey of your current cabling and equipment, WiFi heat mapping to identify dead zones and interference, bandwidth testing at multiple points, and a written report with prioritized recommendations. There's no obligation—just honest information about your network.</p>
+            </div>
+        </div>
+
+        <!-- Related Services -->
+        <h2 style="font-size: 2.5rem; margin: 4rem 0 2rem;">Related Services</h2>
+
+        <div class="feature-grid">
+            <div class="feature-card">
+                <h3><a href="/managed-it-services" style="color: var(--primary); text-decoration: none;">Managed IT Services</a></h3>
+                <p>Complete IT management with 24/7 monitoring and 15-minute response times.</p>
+            </div>
+
+            <div class="feature-card">
+                <h3><a href="/security-cameras" style="color: var(--primary); text-decoration: none;">Security Cameras</a></h3>
+                <p>IP camera systems that run on your network infrastructure.</p>
+            </div>
+
+            <div class="feature-card">
+                <h3><a href="/voip-phone-systems" style="color: var(--primary); text-decoration: none;">VoIP Phone Systems</a></h3>
+                <p>Cloud phone systems that depend on reliable network cabling.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section id="contact" style="background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%); padding: 4rem var(--spacing); text-align: center;">
+        <div style="max-width: 800px; margin: 0 auto;">
+            <h2 style="font-size: 2.5rem; margin-bottom: 1rem; color: white;">Ready to Upgrade Your Network?</h2>
+            <p style="font-size: 1.2rem; color: rgba(255, 255, 255, 0.9); margin-bottom: 2rem;">
+                Get a free network assessment and site survey. We'll identify issues, recommend solutions, and provide transparent pricing.
+            </p>
+
+            <form action="/submit-ticket.html" method="get" style="max-width: 500px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
+                <input type="text" name="name" placeholder="Your Name *" required style="padding: 1rem; border-radius: 8px; border: none; font-size: 1rem;">
+                <input type="email" name="email" placeholder="Work Email *" required style="padding: 1rem; border-radius: 8px; border: none; font-size: 1rem;">
+                <input type="tel" name="phone" placeholder="Phone Number *" required style="padding: 1rem; border-radius: 8px; border: none; font-size: 1rem;">
+                <button type="submit" class="btn btn-secondary" style="width: 100%; padding: 1.2rem; font-size: 1.1rem;">
+                    Schedule My Free Assessment →
+                </button>
+            </form>
+
+            <p style="margin-top: 1.5rem; color: rgba(255, 255, 255, 0.8); font-size: 0.9rem;">
+                🔒 We never share your information. No spam. No pressure.
+            </p>
+
+            <p style="margin-top: 1rem; color: rgba(255, 255, 255, 0.9);">
+                Or call us directly: <a href="tel:8594497878" style="color: white; font-weight: 700; text-decoration: none;">859-449-7878</a>
+            </p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer style="background: var(--dark-secondary); padding: 4rem var(--spacing) 2rem; border-top: 1px solid rgba(255, 255, 255, 0.05);">
+        <div style="max-width: 1200px; margin: 0 auto;">
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 3rem; margin-bottom: 3rem;">
+                <div>
+                    <h3 style="color: var(--primary); margin-bottom: 1rem;">SIMPLE IT</h3>
+                    <p style="color: var(--text-secondary); margin-bottom: 1rem;">
+                        Business Technology Made Simple. Serving Northern Kentucky and Greater Cincinnati with guaranteed 15-minute response times.
+                    </p>
+                    <div style="display: flex; gap: 1rem;">
+                        <a href="https://www.facebook.com/GoSimpleIT/" target="_blank" style="color: var(--text); text-decoration: none;">Facebook</a>
+                        <a href="https://www.linkedin.com/company/simpleit-llc" target="_blank" style="color: var(--text); text-decoration: none;">LinkedIn</a>
+                    </div>
+                </div>
+
+                <div>
+                    <h4 style="margin-bottom: 1rem;">Services</h4>
+                    <ul style="list-style: none; padding: 0;">
+                        <li style="margin-bottom: 0.5rem;"><a href="/managed-it-services" style="color: var(--text-secondary); text-decoration: none;">Managed IT</a></li>
+                        <li style="margin-bottom: 0.5rem;"><a href="/cybersecurity-solutions" style="color: var(--text-secondary); text-decoration: none;">Cybersecurity</a></li>
+                        <li style="margin-bottom: 0.5rem;"><a href="/cloud-solutions" style="color: var(--text-secondary); text-decoration: none;">Cloud Solutions</a></li>
+                        <li style="margin-bottom: 0.5rem;"><a href="/emergency-it-support" style="color: var(--text-secondary); text-decoration: none;">Emergency Support</a></li>
+                        <li style="margin-bottom: 0.5rem;"><a href="/business-continuity" style="color: var(--text-secondary); text-decoration: none;">Business Continuity</a></li>
+                        <li style="margin-bottom: 0.5rem;"><a href="/voip-phone-systems" style="color: var(--text-secondary); text-decoration: none;">VoIP Phone Systems</a></li>
+                        <li style="margin-bottom: 0.5rem;"><a href="/network-cabling" style="color: var(--text-secondary); text-decoration: none;">Network Cabling</a></li>
+                        <li style="margin-bottom: 0.5rem;"><a href="/security-cameras" style="color: var(--text-secondary); text-decoration: none;">Security Cameras</a></li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 style="margin-bottom: 1rem;">Contact</h4>
+                    <p style="color: var(--text-secondary); margin-bottom: 0.5rem;"><a href="tel:8594497878" style="color: var(--text); text-decoration: none;">859-449-7878</a></p>
+                    <p style="color: var(--text-secondary); margin-bottom: 0.5rem;"><a href="mailto:info@simple-it.us">info@simple-it.us</a></p>
+                    <p style="color: var(--text-secondary);">2220 Grandview Drive<br>Suite 250<br>Ft. Mitchell, KY 41017</p>
+                </div>
+            </div>
+
+            <div style="border-top: 1px solid rgba(255, 255, 255, 0.1); padding-top: 2rem; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+                <p style="color: var(--text-secondary);">© 2026 Simple IT, LLC. All rights reserved.</p>
+                <div>
+                    <a href="/privacy-policy" style="color: var(--text-secondary); text-decoration: none; margin-right: 1rem;">Privacy Policy</a>
+                    <a href="/terms-of-service" style="color: var(--text-secondary); text-decoration: none;">Terms of Service</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Mobile menu (same as main site)
+        const mobileMenuBtn = document.querySelector('.mobile-menu-btn');
+        const navLinks = document.querySelector('.nav-links');
+
+        if (mobileMenuBtn) {
+            mobileMenuBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                navLinks.classList.toggle('active');
+
+                // Change icon
+                if (navLinks.classList.contains('active')) {
+                    mobileMenuBtn.textContent = '✕';
+                    mobileMenuBtn.setAttribute('aria-label', 'Close menu');
+                } else {
+                    mobileMenuBtn.textContent = '☰';
+                    mobileMenuBtn.setAttribute('aria-label', 'Open menu');
+                }
+            });
+
+            // Close menu when clicking a link
+            document.querySelectorAll('.nav-links a').forEach(link => {
+                link.addEventListener('click', () => {
+                    navLinks.classList.remove('active');
+                    mobileMenuBtn.textContent = '☰';
+                    mobileMenuBtn.setAttribute('aria-label', 'Open menu');
+                });
+            });
+
+            // Close menu when clicking outside
+            document.addEventListener('click', (e) => {
+                if (!e.target.closest('nav')) {
+                    navLinks.classList.remove('active');
+                    mobileMenuBtn.textContent = '☰';
+                    mobileMenuBtn.setAttribute('aria-label', 'Open menu');
+                }
+            });
+
+            // Close menu on escape key
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape' && navLinks.classList.contains('active')) {
+                    navLinks.classList.remove('active');
+                    mobileMenuBtn.textContent = '☰';
+                    mobileMenuBtn.setAttribute('aria-label', 'Open menu');
+                }
+            });
+        }
+    </script>
+</body>
+</html>
