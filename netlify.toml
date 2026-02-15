@@ -1968,6 +1968,27 @@ from = "/it-services-cincinnati-oh"
 to = "/it-services-cincinnati-oh.html"
 status = 301
 
+# Utility pages pretty URLs
+[[redirects]]
+from = "/thank-you/"
+to = "/thank-you.html"
+status = 301
+
+[[redirects]]
+from = "/thank-you"
+to = "/thank-you.html"
+status = 301
+
+[[redirects]]
+from = "/ticket-submitted/"
+to = "/ticket-submitted.html"
+status = 301
+
+[[redirects]]
+from = "/ticket-submitted"
+to = "/ticket-submitted.html"
+status = 301
+
 # Catch-all: return 404 page (not a redirect)
 [[redirects]]
 from = "/*"

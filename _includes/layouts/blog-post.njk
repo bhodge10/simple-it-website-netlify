@@ -8,6 +8,8 @@
     {% if focusKeyphrase %}<meta name="keywords" content="{{ focusKeyphrase }}">{% endif %}
     <link rel="canonical" href="https://simple-it.us{{ page.url }}">
 
+    <link rel="icon" type="image/png" href="/simple-it-logo.png">
+
     <!-- Open Graph -->
     <meta property="og:title" content="{{ ogTitle if ogTitle else (seoTitle if seoTitle else title) }}">
     <meta property="og:description" content="{{ ogDescription if ogDescription else (metaDescription if metaDescription else content | excerpt) }}">

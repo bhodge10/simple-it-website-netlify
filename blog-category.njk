@@ -15,12 +15,36 @@ permalink: "/blog/category/{{ categorySlug }}/"
     <meta name="description" content="Browse {{ category.posts.length }} {{ category.name | lower }} articles from Simple IT. Expert insights for Northern Kentucky and Cincinnati businesses.">
     <link rel="canonical" href="https://simple-it.us/blog/category/{{ categorySlug }}/">
 
+    <link rel="icon" type="image/png" href="/simple-it-logo.png">
+
     <!-- Open Graph -->
     <meta property="og:title" content="{{ category.name }} Articles | Simple IT Blog">
     <meta property="og:description" content="Browse {{ category.posts.length }} {{ category.name | lower }} articles from Simple IT.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://simple-it.us/blog/category/{{ categorySlug }}/">
     <meta property="og:site_name" content="Simple IT">
+
+    <!-- CollectionPage Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "{{ category.name }} Articles",
+        "description": "Browse {{ category.posts.length }} {{ category.name | lower }} articles from Simple IT.",
+        "url": "https://simple-it.us/blog/category/{{ categorySlug }}/",
+        "isPartOf": {
+            "@type": "Blog",
+            "name": "Simple IT Blog",
+            "url": "https://simple-it.us/blog/"
+        },
+        "provider": {
+            "@type": "LocalBusiness",
+            "name": "Simple IT",
+            "url": "https://simple-it.us",
+            "telephone": "859-449-7878"
+        }
+    }
+    </script>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
